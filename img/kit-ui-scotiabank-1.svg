@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="993px" height="6881px" viewBox="0 0 993 6881" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 23</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 -0.000500905781 15.0717344 -0.000500905781 15.0717344 10.7647455 0 10.7647455"></polygon>
+        <polygon id="path-3" points="-0.00017927059 1.07567485 15.0717201 1.07567485 15.0717201 11.84122 -0.00017927059 11.84122"></polygon>
+        <polygon id="path-5" points="0 -0.000500905781 15.0717344 -0.000500905781 15.0717344 10.7647455 0 10.7647455"></polygon>
+        <polygon id="path-7" points="-0.00017927059 1.07567485 15.0717201 1.07567485 15.0717201 11.84122 -0.00017927059 11.84122"></polygon>
+        <polygon id="path-9" points="0 0.0164835165 44.0892857 0.0164835165 44.0892857 44.1014835 0 44.1014835"></polygon>
+        <filter x="-1.6%" y="-4.3%" width="103.1%" height="108.5%" filterUnits="objectBoundingBox" id="filter-11">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <polygon id="path-12" points="0 0.0747452547 52.1478521 0.0747452547 52.1478521 41.7181948 0 41.7181948"></polygon>
+        <filter x="-2.7%" y="-2.2%" width="105.5%" height="104.4%" filterUnits="objectBoundingBox" id="filter-14">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-2.7%" y="-5.4%" width="105.5%" height="110.7%" filterUnits="objectBoundingBox" id="filter-15">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-3.7%" y="-1.9%" width="107.4%" height="103.7%" filterUnits="objectBoundingBox" id="filter-16">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <polygon id="path-17" points="0 0 351.648352 0 351.648352 147.252747 0 147.252747"></polygon>
+        <filter x="-3.7%" y="-1.9%" width="107.4%" height="103.7%" filterUnits="objectBoundingBox" id="filter-19">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <polygon id="path-20" points="0 0 351.648352 0 351.648352 147.252747 0 147.252747"></polygon>
+        <filter x="-1.6%" y="-2.5%" width="103.1%" height="105.0%" filterUnits="objectBoundingBox" id="filter-22">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <polygon id="path-23" points="0 0.000341953129 51.2929646 0.000341953129 51.2929646 51.2929693 0 51.2929693"></polygon>
+        <filter x="-2.7%" y="-2.3%" width="105.5%" height="104.6%" filterUnits="objectBoundingBox" id="filter-25">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-211.000000, -479.000000)">
+            <g id="Group-23" transform="translate(209.000000, 463.000000)">
+                <g id="Group-21">
+                    <rect id="Rectangle" fill-opacity="0" fill="#D8D8D8" fill-rule="nonzero" x="0" y="0" width="1000" height="6916.48352"></rect>
+                    <g id="Group-20" transform="translate(3.296703, 128.571429)">
+                        <g id="Group-6">
+                            <text id="Colores" font-family="FrutigerLTforBNS-Bold, Frutiger LT for BNS" font-size="54.9450549" font-weight="bold" fill="#333333">
+                                <tspan x="0" y="53">Colores</tspan>
+                            </text>
+                            <g id="Colores-canvas" transform="translate(0.000000, 132.967033)">
+                                <g id="red" transform="translate(0.000000, 97.802198)">
+                                    <circle id="Oval-2" fill="#ED0722" cx="82.4175824" cy="82.4175824" r="82.4175824"></circle>
+                                    <text id="#ED0722" font-family="FrutigerLTforBNS-Roman, Frutiger LT for BNS" font-size="26.3736264" font-weight="normal" fill="#333333">
+                                        <tspan x="29.6703297" y="225">#ED0722</tspan>
+                                    </text>
+                                    <text id="Red" font-family="FrutigerLTforBNS-Bold, Frutiger LT for BNS" font-size="17.5824176" font-weight="bold" fill="#333333">
+                                        <tspan x="67.032967" y="266.450549">Red</tspan>
+                                    </text>
+                                </g>
+                                <g id="purple" transform="translate(197.802198, 97.802198)">
+                                    <circle id="Oval-2-Copy" fill="#8230DF" cx="82.4175824" cy="82.4175824" r="82.4175824"></circle>
+                                    <text id="#8230DF" font-family="FrutigerLTforBNS-Roman, Frutiger LT for BNS" font-size="26.3736264" font-weight="normal" fill="#333333">
+                                        <tspan x="30.7692308" y="225">#8230DF</tspan>
+                                    </text>
+                                    <text id="Purple" font-family="FrutigerLTforBNS-Bold, Frutiger LT for BNS" font-size="17.5824176" font-weight="bold" fill="#333333">
+                                        <tspan x="56.043956" y="266.450549">Purple</tspan>
+                                    </text>
+                                </g>
+                                <g id="pink" transform="translate(395.604396, 97.802198)">
+                                    <circle id="Oval-2-Copy-2" fill="#BE207A" cx="82.4175824" cy="82.4175824" r="82.4175824"></circle>
+                                    <text id="#BE207A" font-family="FrutigerLTforBNS-Roman, Frutiger LT for BNS" font-size="26.3736264" font-weight="normal" fill="#333333">
+                                        <tspan x="28.5714286" y="225">#BE207A</tspan>
+                                    </text>
+                                    <text id="Pink" font-family="FrutigerLTforBNS-Bold, Frutiger LT for BNS" font-size="17.5824176" font-weight="bold" fill="#333333">
+                                        <tspan x="64.8351648" y="266.450549">Pink</tspan>
+                                    </text>
+                                </g>
+                                <g id="green" transform="translate(593.406593, 97.802198)">
+                                    <circle id="Oval-2-Copy-3" fill="#008660" cx="82.4175824" cy="82.4175824" r="82.4175824"></circle>
+                                    <text id="#008660" font-family="FrutigerLTforBNS-Roman, Frutiger LT for BNS" font-size="26.3736264" font-weight="normal" fill="#333333">
+                                        <tspan x="30.7692308" y="225">#008660</tspan>
+                                    </text>
+                                    <text id="Green" font-family="FrutigerLTforBNS-Bold, Frutiger LT for BNS" font-size="17.5824176" font-weight="bold" fill="#333333">
+                                        <tspan x="57.1428571" y="266.450549">Green</tspan>
+                                    </text>
+                                </g>
+                                <g id="blue" transform="translate(791.208791, 97.802198)">
+                                    <circle id="Oval-2-Copy-4" fill="#087BB4" cx="82.4175824" cy="82.4175824" r="82.4175824"></circle>
+                                    <text id="#087BB4" font-family="FrutigerLTforBNS-Roman, Frutiger LT for BNS" font-size="26.3736264" font-weight="normal" fill="#333333">
+                                        <tspan x="29.6703297" y="225">#087BB4</tspan>
+                                    </text>
+                                    <text id="Blue" font-family="FrutigerLTforBNS-Bold, Frutiger LT for BNS" font-size="17.5824176" font-weight="bold" fill="#333333">
+                                        <tspan x="64.8351648" y="266.450549">Blue</tspan>
+                                    </text>
+                                </g>
+                                <g id="hover" transform="translate(0.000000, 434.065934)">
+                                    <circle id="Oval-2-Copy-5" fill="#BD051B" cx="82.4175824" cy="82.4175824" r="82.4175824"></circle>
+                                    <text id="#BD051B" font-family="FrutigerLTforBNS-Roman, Frutiger LT for BNS" font-size="26.3736264" font-weight="normal" fill="#333333">
+                                        <tspan x="29.6703297" y="225">#BD051B</tspan>
+                                    </text>
+                                    <text id="Hover" font-family="FrutigerLTforBNS-Bold, Frutiger LT for BNS" font-size="17.5824176" font-weight="bold" fill="#333333">
+                                        <tspan x="57.1428571" y="266.450549">Hover</tspan>
+                                    </text>
+                                </g>
+                                <g id="typography" transform="translate(0.000000, 770.329670)" fill="#333333">
+                                    <circle id="Oval-2-Copy-6" cx="82.4175824" cy="82.4175824" r="82.4175824"></circle>
+                                    <text id="#333333" font-family="FrutigerLTforBNS-Roman, Frutiger LT for BNS" font-size="26.3736264" font-weight="normal">
+                                        <tspan x="36.2637363" y="225">#333333</tspan>
+                                    </text>
+                                    <text id="Typography" font-family="FrutigerLTforBNS-Bold, Frutiger LT for BNS" font-size="17.5824176" font-weight="bold">
+                                        <tspan x="34.0659341" y="266.450549">Typography</tspan>
+                                    </text>
+                                </g>
+                                <g id="default" transform="translate(197.802198, 770.329670)">
+                                    <circle id="Oval-2-Copy-7" fill="#757575" cx="82.4175824" cy="82.4175824" r="82.4175824"></circle>
+                                    <text id="#757575" font-family="FrutigerLTforBNS-Roman, Frutiger LT for BNS" font-size="26.3736264" font-weight="normal" fill="#333333">
+                                        <tspan x="32.967033" y="225">#757575</tspan>
+                                    </text>
+                                    <text id="Default" font-family="FrutigerLTforBNS-Bold, Frutiger LT for BNS" font-size="17.5824176" font-weight="bold" fill="#333333">
+                                        <tspan x="51.6483516" y="266.450549">Default</tspan>
+                                    </text>
+                                </g>
+                                <g id="disabled" transform="translate(395.604396, 770.329670)">
+                                    <circle id="Oval-2-Copy-8" fill="#D6D6D6" cx="82.4175824" cy="82.4175824" r="82.4175824"></circle>
+                                    <text id="#D6D6D6" font-family="FrutigerLTforBNS-Roman, Frutiger LT for BNS" font-size="26.3736264" font-weight="normal" fill="#333333">
+                                        <tspan x="24.1758242" y="225">#D6D6D6</tspan>
+                                    </text>
+                                    <text id="Disabled" font-family="FrutigerLTforBNS-Bold, Frutiger LT for BNS" font-size="17.5824176" font-weight="bold" fill="#333333">
+                                        <tspan x="47.2527473" y="266.450549">Disabled</tspan>
+                                    </text>
+                                </g>
+                                <g id="background" transform="translate(593.406593, 770.329670)">
+                                    <circle id="Oval-2-Copy-9" fill="#F6F6F6" cx="82.4175824" cy="82.4175824" r="82.4175824"></circle>
+                                    <text id="#F6F6F6" font-family="FrutigerLTforBNS-Roman, Frutiger LT for BNS" font-size="26.3736264" font-weight="normal" fill="#333333">
+                                        <tspan x="32.967033" y="225">#F6F6F6</tspan>
+                                    </text>
+                                    <text id="Background" font-family="FrutigerLTforBNS-Bold, Frutiger LT for BNS" font-size="17.5824176" font-weight="bold" fill="#333333">
+                                        <tspan x="32.967033" y="266.450549">Background</tspan>
+                                    </text>
+                                </g>
+                                <text font-family="FrutigerLTforBNS-Roman, Frutiger LT for BNS" font-size="26.3736264" font-weight="normal" fill="#333333">
+                                    <tspan x="0" y="25">Colores canvas</tspan>
+                                </text>
+                            </g>
+                            <g id="Colores-gráficas-publicitarias" transform="translate(0.000000, 1239.560440)">
+                                <g id="yellow" transform="translate(0.000000, 97.802198)">
+                                    <circle id="Oval-2-Copy-10" fill="#FFCC00" cx="82.4175824" cy="82.4175824" r="82.4175824"></circle>
+                                    <text id="#FFCC00" font-family="FrutigerLTforBNS-Roman, Frutiger LT for BNS" font-size="26.3736264" font-weight="normal" fill="#333333">
+                                        <tspan x="30.7692308" y="225">#FFCC00</tspan>
+                                    </text>
+                                    <text id="Yellow" font-family="FrutigerLTforBNS-Bold, Frutiger LT for BNS" font-size="17.5824176" font-weight="bold" fill="#333333">
+                                        <tspan x="54.9450549" y="266.450549">Yellow</tspan>
+                                    </text>
+                                </g>
+                                <g id="lemon" transform="translate(197.802198, 97.802198)">
+                                    <circle id="Oval-2-Copy-11" fill="#CC9900" cx="82.4175824" cy="82.4175824" r="82.4175824"></circle>
+                                    <text id="#CC9900" font-family="FrutigerLTforBNS-Roman, Frutiger LT for BNS" font-size="26.3736264" font-weight="normal" fill="#333333">
+                                        <tspan x="30.7692308" y="225">#CC9900</tspan>
+                                    </text>
+                                    <text id="Lemon" font-family="FrutigerLTforBNS-Bold, Frutiger LT for BNS" font-size="17.5824176" font-weight="bold" fill="#333333">
+                                        <tspan x="54.9450549" y="266.450549">Lemon</tspan>
+                                    </text>
+                                </g>
+                                <g id="terra" transform="translate(395.604396, 97.802198)">
+                                    <circle id="Oval-2-Copy-12" fill="#660000" cx="82.4175824" cy="82.4175824" r="82.4175824"></circle>
+                                    <text id="#660000" font-family="FrutigerLTforBNS-Roman, Frutiger LT for BNS" font-size="26.3736264" font-weight="normal" fill="#333333">
+                                        <tspan x="30.7692308" y="225">#660000</tspan>
+                                    </text>
+                                    <text id="Terra" font-family="FrutigerLTforBNS-Bold, Frutiger LT for BNS" font-size="17.5824176" font-weight="bold" fill="#333333">
+                                        <tspan x="54.9450549" y="266.450549">Terra</tspan>
+                                    </text>
+                                </g>
+                                <g id="orange" transform="translate(593.406593, 97.802198)">
+                                    <circle id="Oval-2-Copy-13" fill="#FF6600" cx="82.4175824" cy="82.4175824" r="82.4175824"></circle>
+                                    <text id="#FF6600" font-family="FrutigerLTforBNS-Roman, Frutiger LT for BNS" font-size="26.3736264" font-weight="normal" fill="#333333">
+                                        <tspan x="31.8681319" y="225">#FF6600</tspan>
+                                    </text>
+                                    <text id="Orange" font-family="FrutigerLTforBNS-Bold, Frutiger LT for BNS" font-size="17.5824176" font-weight="bold" fill="#333333">
+                                        <tspan x="51.6483516" y="266.450549">Orange</tspan>
+                                    </text>
+                                </g>
+                                <g id="lime" transform="translate(791.208791, 97.802198)">
+                                    <circle id="Oval-2-Copy-14" fill="#666600" cx="82.4175824" cy="82.4175824" r="82.4175824"></circle>
+                                    <text id="#666600" font-family="FrutigerLTforBNS-Roman, Frutiger LT for BNS" font-size="26.3736264" font-weight="normal" fill="#333333">
+                                        <tspan x="30.7692308" y="225">#666600</tspan>
+                                    </text>
+                                    <text id="Lime" font-family="FrutigerLTforBNS-Bold, Frutiger LT for BNS" font-size="17.5824176" font-weight="bold" fill="#333333">
+                                        <tspan x="62.6373626" y="266.450549">Lime</tspan>
+                                    </text>
+                                </g>
+                                <text id="Colores-gráficas-pub" font-family="FrutigerLTforBNS-Roman, Frutiger LT for BNS" font-size="26.3736264" font-weight="normal" fill="#333333">
+                                    <tspan x="0" y="25">Colores gráficas publicitarias</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Group-9" transform="translate(0.000000, 1696.703297)">
+                            <g id="Group-8" transform="translate(0.000000, 3353.846154)">
+                                <text id="Iconos" font-family="FrutigerLTforBNS-Bold, Frutiger LT for BNS" font-size="54.9450549" font-weight="bold" fill="#333333">
+                                    <tspan x="0" y="53">Iconos</tspan>
+                                </text>
+                                <g id="icon-/-compra-y-venta-de-divisas" transform="translate(0.000000, 964.835165)">
+                                    <g id="Group" stroke-width="1" fill-rule="evenodd" transform="translate(27.472527, 27.472527)">
+                                        <rect id="Rectangle-2" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="54.9450549" height="54.9450549"></rect>
+                                        <g id="Page-1" transform="translate(1.098901, 5.494505)">
+                                            <path d="M25.8359273,22.6059655 C22.868087,22.6059655 20.4535546,20.1914331 20.4535546,17.2235927 C20.4535546,14.2557524 22.868087,11.84122 25.8359273,11.84122 L30.1418255,11.84122 C30.7371159,11.84122 31.2183001,12.3234806 31.2183001,12.9176946 C31.2183001,13.5119085 30.7371159,13.9941691 30.1418255,13.9941691 L25.8359273,13.9941691 C24.0554384,13.9941691 22.6065037,15.4431038 22.6065037,17.2235927 C22.6065037,19.0040816 24.0554384,20.4530164 25.8359273,20.4530164 C26.4312178,20.4530164 26.9124019,20.935277 26.9124019,21.5294909 C26.9124019,22.1237049 26.4312178,22.6059655 25.8359273,22.6059655" id="Fill-1" fill="#757575"></path>
+                                            <path d="M25.8359273,31.2177618 L21.5300292,31.2177618 C20.9347387,31.2177618 20.4535546,30.7355012 20.4535546,30.1412873 C20.4535546,29.5470733 20.9347387,29.0648127 21.5300292,29.0648127 L25.8359273,29.0648127 C27.6164162,29.0648127 29.065351,27.615878 29.065351,25.8353891 C29.065351,24.0549002 27.6164162,22.6059655 25.8359273,22.6059655 C25.2406369,22.6059655 24.7594528,22.1237049 24.7594528,21.5294909 C24.7594528,20.935277 25.2406369,20.4530164 25.8359273,20.4530164 C28.8037677,20.4530164 31.2183001,22.8675488 31.2183001,25.8353891 C31.2183001,28.8032294 28.8037677,31.2177618 25.8359273,31.2177618" id="Fill-3" fill="#757575"></path>
+                                            <path d="M25.8359273,13.9941691 C25.2406369,13.9941691 24.7594528,13.5119085 24.7594528,12.9176946 L24.7594528,9.68827091 C24.7594528,9.09405696 25.2406369,8.61179637 25.8359273,8.61179637 C26.4312178,8.61179637 26.9124019,9.09405696 26.9124019,9.68827091 L26.9124019,12.9176946 C26.9124019,13.5119085 26.4312178,13.9941691 25.8359273,13.9941691" id="Fill-5" fill="#757575"></path>
+                                            <path d="M25.8359273,34.4471855 C25.2406369,34.4471855 24.7594528,33.9649249 24.7594528,33.3707109 L24.7594528,30.1412873 C24.7594528,29.5470733 25.2406369,29.0648127 25.8359273,29.0648127 C26.4312178,29.0648127 26.9124019,29.5470733 26.9124019,30.1412873 L26.9124019,33.3707109 C26.9124019,33.9649249 26.4312178,34.4471855 25.8359273,34.4471855" id="Fill-7" fill="#757575"></path>
+                                            <g id="Group-11" transform="translate(0.000000, 9.688271)">
+                                                <mask id="mask-2" fill="white">
+                                                    <use xlink:href="#path-1"></use>
+                                                </mask>
+                                                <g id="Clip-10"></g>
+                                                <path d="M6.05355461,10.7647455 C5.97389549,10.7647455 5.8931599,10.7561337 5.81242431,10.7378336 C5.52177618,10.6710922 5.27095761,10.4859386 5.12132765,10.2265082 L0.144785826,1.61471182 C-0.153397623,1.10015699 0.0231442027,0.442431038 0.53877551,0.144247589 C1.05225387,-0.15393586 1.71105629,0.02368244 2.00923974,0.538237273 L6.40663826,8.14783584 L13.3897286,3.41457726 C13.8816775,3.08087015 14.5533976,3.20897062 14.8860283,3.70199596 C15.2197354,4.19394483 15.0916349,4.863512 14.5986096,5.19721911 L6.6585333,10.5795918 C6.47876205,10.7012335 6.26669657,10.7647455 6.05355461,10.7647455" id="Fill-9" fill="#757575" mask="url(#mask-2)"></path>
+                                            </g>
+                                            <path d="M6.46035434,19.3765418 C6.41729536,19.3765418 6.37423638,19.3743889 6.33010092,19.3690065 C5.73911639,19.2968827 5.31821485,18.7607984 5.39033864,18.1698139 C6.66811393,7.6418928 15.2379278,0 25.7690783,0 C35.189307,0 43.6094909,6.11006952 46.2436241,14.8575017 C46.4147836,15.4280332 46.0918412,16.0276295 45.5223862,16.198789 C44.9497017,16.3710249 44.3522584,16.0470061 44.1810989,15.4786275 C41.8193137,7.63220453 34.2463153,2.15294909 25.7690783,2.15294909 C16.1916842,2.15294909 8.6908096,8.84646782 7.52821709,18.4303207 C7.46255214,18.9760933 6.99751514,19.3765418 6.46035434,19.3765418" id="Fill-12" fill="#757575"></path>
+                                            <g id="Group-16" transform="translate(36.600135, 21.529491)">
+                                                <mask id="mask-4" fill="white">
+                                                    <use xlink:href="#path-3"></use>
+                                                </mask>
+                                                <g id="Clip-15"></g>
+                                                <path d="M13.9956762,11.84122 C13.623216,11.84122 13.2615205,11.6485311 13.0623727,11.3029827 L8.66497421,3.69338417 L1.68188383,8.42664275 C1.18993496,8.76034985 0.518214846,8.63224938 0.185584212,8.13922404 C-0.148122898,7.64727517 -0.0200224266,6.97770801 0.471926441,6.6440009 L8.41307917,1.26162817 C8.65959184,1.09369814 8.96423413,1.03556851 9.25918816,1.10338641 C9.54983629,1.17012783 9.80065486,1.35528145 9.95028482,1.61471182 L14.9268266,10.2265082 C15.2250101,10.741063 15.0484683,11.398789 14.532837,11.6969724 C14.3638305,11.7949316 14.1786768,11.84122 13.9956762,11.84122" id="Fill-14" fill="#757575" mask="url(#mask-4)"></path>
+                                            </g>
+                                            <path d="M25.903207,43.0589818 C16.4819018,43.0589818 8.06279435,36.9489123 5.42758466,28.2014802 C5.25642521,27.6309486 5.57936757,27.0313523 6.14882261,26.8601929 C6.71720117,26.6879569 7.31787396,27.0119758 7.49118636,27.5803543 C9.85297152,35.4267773 17.4248935,40.9060327 25.903207,40.9060327 C35.4795246,40.9060327 42.9803992,34.212514 44.1429917,24.6286611 C44.216192,24.0398296 44.7458174,23.6178515 45.3421843,23.6899753 C45.9320924,23.7620991 46.3529939,24.2981834 46.2819466,24.889168 C45.0030949,35.417089 36.433281,43.0589818 25.903207,43.0589818" id="Fill-17" fill="#757575"></path>
+                                        </g>
+                                    </g>
+                                    <circle id="Oval-2" stroke="#757575" stroke-width="2.1978022" cx="54.9450549" cy="54.9450549" r="54.9450549"></circle>
+                                </g>
+                                <g id="icon-/-compra-y-venta-de-divisas" transform="translate(0.000000, 1187.912088)">
+                                    <g id="Group" stroke-width="1" fill-rule="evenodd" transform="translate(27.472527, 27.472527)">
+                                        <rect id="Rectangle-2" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="54.9450549" height="54.9450549"></rect>
+                                        <g id="Page-1" transform="translate(1.098901, 5.494505)">
+                                            <path d="M25.8359273,22.6059655 C22.868087,22.6059655 20.4535546,20.1914331 20.4535546,17.2235927 C20.4535546,14.2557524 22.868087,11.84122 25.8359273,11.84122 L30.1418255,11.84122 C30.7371159,11.84122 31.2183001,12.3234806 31.2183001,12.9176946 C31.2183001,13.5119085 30.7371159,13.9941691 30.1418255,13.9941691 L25.8359273,13.9941691 C24.0554384,13.9941691 22.6065037,15.4431038 22.6065037,17.2235927 C22.6065037,19.0040816 24.0554384,20.4530164 25.8359273,20.4530164 C26.4312178,20.4530164 26.9124019,20.935277 26.9124019,21.5294909 C26.9124019,22.1237049 26.4312178,22.6059655 25.8359273,22.6059655" id="Fill-1" fill="#8230DF"></path>
+                                            <path d="M25.8359273,31.2177618 L21.5300292,31.2177618 C20.9347387,31.2177618 20.4535546,30.7355012 20.4535546,30.1412873 C20.4535546,29.5470733 20.9347387,29.0648127 21.5300292,29.0648127 L25.8359273,29.0648127 C27.6164162,29.0648127 29.065351,27.615878 29.065351,25.8353891 C29.065351,24.0549002 27.6164162,22.6059655 25.8359273,22.6059655 C25.2406369,22.6059655 24.7594528,22.1237049 24.7594528,21.5294909 C24.7594528,20.935277 25.2406369,20.4530164 25.8359273,20.4530164 C28.8037677,20.4530164 31.2183001,22.8675488 31.2183001,25.8353891 C31.2183001,28.8032294 28.8037677,31.2177618 25.8359273,31.2177618" id="Fill-3" fill="#8230DF"></path>
+                                            <path d="M25.8359273,13.9941691 C25.2406369,13.9941691 24.7594528,13.5119085 24.7594528,12.9176946 L24.7594528,9.68827091 C24.7594528,9.09405696 25.2406369,8.61179637 25.8359273,8.61179637 C26.4312178,8.61179637 26.9124019,9.09405696 26.9124019,9.68827091 L26.9124019,12.9176946 C26.9124019,13.5119085 26.4312178,13.9941691 25.8359273,13.9941691" id="Fill-5" fill="#8230DF"></path>
+                                            <path d="M25.8359273,34.4471855 C25.2406369,34.4471855 24.7594528,33.9649249 24.7594528,33.3707109 L24.7594528,30.1412873 C24.7594528,29.5470733 25.2406369,29.0648127 25.8359273,29.0648127 C26.4312178,29.0648127 26.9124019,29.5470733 26.9124019,30.1412873 L26.9124019,33.3707109 C26.9124019,33.9649249 26.4312178,34.4471855 25.8359273,34.4471855" id="Fill-7" fill="#8230DF"></path>
+                                            <g id="Group-11" transform="translate(0.000000, 9.688271)">
+                                                <mask id="mask-6" fill="white">
+                                                    <use xlink:href="#path-5"></use>
+                                                </mask>
+                                                <g id="Clip-10"></g>
+                                                <path d="M6.05355461,10.7647455 C5.97389549,10.7647455 5.8931599,10.7561337 5.81242431,10.7378336 C5.52177618,10.6710922 5.27095761,10.4859386 5.12132765,10.2265082 L0.144785826,1.61471182 C-0.153397623,1.10015699 0.0231442027,0.442431038 0.53877551,0.144247589 C1.05225387,-0.15393586 1.71105629,0.02368244 2.00923974,0.538237273 L6.40663826,8.14783584 L13.3897286,3.41457726 C13.8816775,3.08087015 14.5533976,3.20897062 14.8860283,3.70199596 C15.2197354,4.19394483 15.0916349,4.863512 14.5986096,5.19721911 L6.6585333,10.5795918 C6.47876205,10.7012335 6.26669657,10.7647455 6.05355461,10.7647455" id="Fill-9" fill="#8230DF" mask="url(#mask-6)"></path>
+                                            </g>
+                                            <path d="M6.46035434,19.3765418 C6.41729536,19.3765418 6.37423638,19.3743889 6.33010092,19.3690065 C5.73911639,19.2968827 5.31821485,18.7607984 5.39033864,18.1698139 C6.66811393,7.6418928 15.2379278,0 25.7690783,0 C35.189307,0 43.6094909,6.11006952 46.2436241,14.8575017 C46.4147836,15.4280332 46.0918412,16.0276295 45.5223862,16.198789 C44.9497017,16.3710249 44.3522584,16.0470061 44.1810989,15.4786275 C41.8193137,7.63220453 34.2463153,2.15294909 25.7690783,2.15294909 C16.1916842,2.15294909 8.6908096,8.84646782 7.52821709,18.4303207 C7.46255214,18.9760933 6.99751514,19.3765418 6.46035434,19.3765418" id="Fill-12" fill="#8230DF"></path>
+                                            <g id="Group-16" transform="translate(36.600135, 21.529491)">
+                                                <mask id="mask-8" fill="white">
+                                                    <use xlink:href="#path-7"></use>
+                                                </mask>
+                                                <g id="Clip-15"></g>
+                                                <path d="M13.9956762,11.84122 C13.623216,11.84122 13.2615205,11.6485311 13.0623727,11.3029827 L8.66497421,3.69338417 L1.68188383,8.42664275 C1.18993496,8.76034985 0.518214846,8.63224938 0.185584212,8.13922404 C-0.148122898,7.64727517 -0.0200224266,6.97770801 0.471926441,6.6440009 L8.41307917,1.26162817 C8.65959184,1.09369814 8.96423413,1.03556851 9.25918816,1.10338641 C9.54983629,1.17012783 9.80065486,1.35528145 9.95028482,1.61471182 L14.9268266,10.2265082 C15.2250101,10.741063 15.0484683,11.398789 14.532837,11.6969724 C14.3638305,11.7949316 14.1786768,11.84122 13.9956762,11.84122" id="Fill-14" fill="#8230DF" mask="url(#mask-8)"></path>
+                                            </g>
+                                            <path d="M25.903207,43.0589818 C16.4819018,43.0589818 8.06279435,36.9489123 5.42758466,28.2014802 C5.25642521,27.6309486 5.57936757,27.0313523 6.14882261,26.8601929 C6.71720117,26.6879569 7.31787396,27.0119758 7.49118636,27.5803543 C9.85297152,35.4267773 17.4248935,40.9060327 25.903207,40.9060327 C35.4795246,40.9060327 42.9803992,34.212514 44.1429917,24.6286611 C44.216192,24.0398296 44.7458174,23.6178515 45.3421843,23.6899753 C45.9320924,23.7620991 46.3529939,24.2981834 46.2819466,24.889168 C45.0030949,35.417089 36.433281,43.0589818 25.903207,43.0589818" id="Fill-17" fill="#8230DF"></path>
+                                        </g>
+                                    </g>
+                                    <circle id="Oval-2" stroke="#8230DF" stroke-width="2.1978022" cx="54.9450549" cy="54.9450549" r="54.9450549"></circle>
+                                </g>
+                                <text id="Estructura-de-los-ic" font-family="FrutigerLTforBNS-Roman, Frutiger LT for BNS" font-size="26.3736264" font-weight="normal" fill="#333333">
+                                    <tspan x="0" y="157.967033">Estructura de los iconos</tspan>
+                                </text>
+                                <text id="Iconos-no-clickables" font-family="FrutigerLTforBNS-Roman, Frutiger LT for BNS" font-size="26.3736264" font-weight="normal" fill="#333333">
+                                    <tspan x="0" y="489.835165">Iconos no clickables</tspan>
+                                </text>
+                                <text id="Iconos-clickable" font-family="FrutigerLTforBNS-Roman, Frutiger LT for BNS" font-size="26.3736264" font-weight="normal" fill="#333333">
+                                    <tspan x="0" y="798.626374">Iconos clickable</tspan>
+                                </text>
+                                <text id="Todos-los-iconos-ant" font-family="FrutigerLTforBNS-Roman, Frutiger LT for BNS" font-size="16.4835165" font-weight="normal" fill="#333333">
+                                    <tspan x="0" y="207.208791">Todos los iconos antes de ser utilizados, deben estar contenidos en un cuadrado transparente de fondo. Haciendo esto nuestros </tspan>
+                                    <tspan x="0" y="227.208791">iconos quedarán simétricos, y al momento de utilizarlos en nuestro diseño, los margenes quedarán prolijos.</tspan>
+                                </text>
+                                <text id="Los-iconos-no-clicka" font-family="FrutigerLTforBNS-Roman, Frutiger LT for BNS" font-size="16.4835165" font-weight="normal" fill="#333333">
+                                    <tspan x="0" y="539.076923">Los iconos no clickables deben ser siempre de color pink.</tspan>
+                                </text>
+                                <text id="Los-iconos-no-clicka" font-family="FrutigerLTforBNS-Roman, Frutiger LT for BNS" font-size="16.4835165" font-weight="normal" fill="#333333">
+                                    <tspan x="0" y="847.868132">Los iconos no clickables deben ser de color default y purple en estado hover. Además deben estar contenidos en un círculo lineal </tspan>
+                                    <tspan x="0" y="867.868132">del doble de su tamaño, que tenga el mismo comportamiento que el icono en cuanto a los colores.</tspan>
+                                </text>
+                                <g id="Group-5" transform="translate(0.000000, 296.703297)">
+                                    <g id="Group-2" transform="translate(238.461538, 0.000000)">
+                                        <g id="Page-1" transform="translate(0.000000, 5.494505)">
+                                            <path d="M90.241978,45.7331868 C89.82,45.7331868 89.398022,45.5716484 89.0765934,45.2502198 C88.4320879,44.6073626 88.4320879,43.563956 89.0765934,42.9194505 C97.7485714,34.2425275 97.7485714,20.1227473 89.0765934,11.4458242 C80.3963736,2.77384615 66.2782418,2.77714286 57.6046154,11.4458242 C56.9617582,12.0903297 55.9183516,12.0903297 55.2738462,11.4458242 C54.630989,10.802967 54.630989,9.75791209 55.2738462,9.11505495 C65.2331868,-0.837692308 81.4447253,-0.840989011 91.4073626,9.11505495 C101.363407,19.0776923 101.363407,35.2875824 91.4073626,45.2502198 C91.0859341,45.5716484 90.663956,45.7331868 90.241978,45.7331868" id="Fill-1" fill="#000000"></path>
+                                            <path d="M49.4371978,18.1168681 C48.9822527,18.1168681 48.5273077,17.928956 48.2025824,17.5597253 C47.5992857,16.8773077 47.6635714,15.8355495 48.345989,15.2339011 L55.3481868,9.04598901 C56.0322527,8.44434066 57.074011,8.50862637 57.674011,9.1893956 C58.2773077,9.87181319 58.213022,10.9135714 57.5306044,11.5152198 L50.5284066,17.7031319 C50.2152198,17.9800549 49.8245604,18.1168681 49.4371978,18.1168681" id="Fill-3" fill="#000000"></path>
+                                            <g id="Group-7" transform="translate(0.000000, 1.631703)">
+                                                <mask id="mask-10" fill="white">
+                                                    <use xlink:href="#path-9"></use>
+                                                </mask>
+                                                <g id="Clip-6"></g>
+                                                <path d="M8.63736264,44.1014835 C8.21538462,44.1014835 7.79340659,43.9399451 7.47197802,43.6185165 C-2.49065934,33.6558791 -2.49065934,17.445989 7.47197802,7.48335165 C17.432967,-2.47104396 33.6428571,-2.47434066 43.6071429,7.48335165 C44.25,8.12620879 44.25,9.17126374 43.6071429,9.81412088 C42.9626374,10.4586264 41.9192308,10.4586264 41.2763736,9.81412088 C32.5994505,1.14379121 18.4796703,1.14379121 9.80274725,9.81412088 C1.12582418,18.4926923 1.12582418,32.6091758 9.80274725,41.2877473 C10.4472527,41.9322527 10.4472527,42.974011 9.80274725,43.6185165 C9.48131868,43.9399451 9.05934066,44.1014835 8.63736264,44.1014835" id="Fill-5" fill="#000000" mask="url(#mask-10)"></path>
+                                            </g>
+                                            <path d="M49.4371978,18.1168681 C49.0481868,18.1168681 48.6575275,17.9800549 48.345989,17.7031319 L41.3503846,11.5152198 C40.667967,10.9119231 40.6036813,9.87016484 41.206978,9.1893956 C41.8102747,8.50697802 42.856978,8.44598901 43.5328022,9.04598901 L50.5284066,15.2339011 C51.2108242,15.8371978 51.2751099,16.878956 50.6718132,17.5597253 C50.3470879,17.928956 49.8921429,18.1168681 49.4371978,18.1168681" id="Fill-8" fill="#000000"></path>
+                                            <path d="M49.4371978,87.345989 L49.4355495,87.345989 C47.3487363,87.345989 45.4003846,86.4591758 43.9481868,84.8470879 L7.42565934,45.2025824 C6.80917582,44.5317033 6.85038462,43.4899451 7.51961538,42.8734615 C8.19214286,42.256978 9.23225275,42.2998352 9.84873626,42.9674176 L46.3844505,82.6284066 C47.2152198,83.5498352 48.2965385,84.0492857 49.4371978,84.0492857 C50.5795055,84.0492857 51.6608242,83.5498352 52.4800549,82.6415934 L89.0306044,42.9674176 C89.6470879,42.2998352 90.6904945,42.256978 91.3597253,42.8734615 C92.028956,43.4899451 92.0701648,44.5317033 91.4536813,45.2025824 L54.9146703,84.8619231 C53.474011,86.4591758 51.5256593,87.345989 49.4371978,87.345989" id="Fill-10" fill="#000000"></path>
+                                        </g>
+                                        <rect id="Rectangle-3" stroke="#979797" stroke-width="1.0989011" x="-0.549450549" y="0.549450549" width="100" height="100"></rect>
+                                        <path d="M-0.549450549,6.04395604 L99.4505495,6.04395604 L99.4505495,93.296705 L-0.549450549,93.296705 L-0.549450549,6.04395604 Z" id="Rectangle-3-Copy" stroke="#087BB4" stroke-width="1.0989011"></path>
+                                        <path d="M49.4505495,100.439554 L49.4505495,93.5164902" id="Line-2" stroke="#087BB4" stroke-width="1.0989011" stroke-linecap="square"></path>
+                                        <path d="M49.4505495,6.04395604 L49.4505495,0.659347367" id="Line-2-Copy" stroke="#087BB4" stroke-width="1.0989011" stroke-linecap="square"></path>
+                                    </g>
+                                    <g id="Group" transform="translate(0.000000, 1.098901)">
+                                        <rect id="Rectangle-3" stroke="#979797" stroke-width="1.0989011" x="0.549450549" y="-0.549450549" width="100" height="100"></rect>
+                                        <rect id="Rectangle-3-Copy-2" stroke="#087BB4" stroke-width="1.0989011" x="11.5384615" y="-0.549450549" width="77.8022012" height="100"></rect>
+                                        <path d="M11.1648392,49.4505495 L0.659347367,49.4505495" id="Line-3" stroke="#087BB4" stroke-width="1.0989011" stroke-linecap="square"></path>
+                                        <path d="M100.505485,49.4505495 L89.4505427,49.4505495" id="Line-3-Copy" stroke="#087BB4" stroke-width="1.0989011" stroke-linecap="square"></path>
+                                        <g id="Page-1" transform="translate(12.087912, 0.000000)" fill="#000000">
+                                            <path d="M25.523006,69.2307692 C24.7403049,69.2307692 24.1050691,68.5978022 24.1050691,67.8178964 L24.1050691,24.0188383 C24.1050691,18.2882261 27.6825239,14.1287284 32.6126905,14.1287284 C37.5428571,14.1287284 41.1203119,18.2882261 41.1203119,24.0188383 L41.1203119,51.8015699 C41.1203119,52.5814757 40.4850762,53.2144427 39.702375,53.2144427 C38.9196739,53.2144427 38.2844381,52.5814757 38.2844381,51.8015699 L38.2844381,24.0188383 C38.2844381,20.5021978 36.5304502,16.9544741 32.6126905,16.9544741 C28.6949309,16.9544741 26.9409429,20.5021978 26.9409429,24.0188383 L26.9409429,67.8178964 C26.9409429,68.5978022 26.3057072,69.2307692 25.523006,69.2307692" id="Fill-1"></path>
+                                            <path d="M67.2116271,96.0756358 C67.0925204,96.0756358 66.9705778,96.0600942 66.8486352,96.029011 C66.0914569,95.8297959 65.640553,95.0569545 65.8404821,94.3024804 C68.3615739,84.7825432 73.2236795,66.2541287 73.5781638,64.2746939 C74.0418291,61.6693564 71.9985821,60.3808163 70.7394541,59.8453375 C68.1616448,58.7503611 65.3271889,60.3977708 65.2988302,60.4147253 C64.9159872,60.6478493 64.4423963,60.6859969 64.0283587,60.517865 C63.6114853,60.3497331 63.2995392,59.995102 63.1875222,59.5613501 C63.1534917,59.4341915 62.2417582,56.2269702 58.7678128,55.2888226 C55.7093229,54.4637049 52.9755406,56.8867818 52.9471819,56.9108006 C52.6012052,57.2230455 52.1205246,57.3473783 51.6667848,57.24 C51.2116271,57.1326217 50.8372917,56.8118995 50.6685572,56.3781476 C50.0304856,54.7335636 49.4789082,53.3136264 46.5012407,52.5888226 C42.740872,51.6789325 40.7713577,53.2768917 40.6876994,53.3461224 C40.0964197,53.8420408 39.2031195,53.7784615 38.6954981,53.1921193 C38.1892946,52.6057771 38.2417582,51.7312088 38.8216944,51.2183359 C38.9450549,51.1095447 41.9014534,48.5677865 47.1719248,49.8436107 C50.3807161,50.6235165 51.7858915,52.1918053 52.5912797,53.7092308 C54.1297412,52.8007535 56.6565048,51.7905495 59.5108118,52.561978 C62.8117689,53.4535008 64.5104573,55.7480063 65.3101737,57.3078179 C66.8387097,56.7341915 69.3399504,56.1775196 71.8525346,57.2470644 C75.2626728,58.6966719 76.9514357,61.5082889 76.3686636,64.7691994 C75.9078341,67.3575824 68.8805388,93.8941601 68.5813541,95.0230455 C68.4140376,95.6560126 67.8397731,96.0756358 67.2116271,96.0756358" id="Fill-3"></path>
+                                            <path d="M25.523715,69.2307692 C25.1337823,69.2307692 24.7438497,69.0711146 24.4630982,68.7574568 L16.8870613,60.277394 C12.8360156,57.1040816 6.32201347,57.1281005 2.30641616,60.3480377 C1.69812123,60.8354788 0.803403049,60.7408163 0.314214817,60.133281 C-0.177809287,59.5243328 -0.0813895782,58.6356358 0.529741227,58.1467818 C5.55490961,54.1158556 13.7293158,54.1158556 18.7544842,58.1467818 C18.8154555,58.1948195 18.872173,58.2485086 18.9246367,58.3078493 L26.5829139,66.8783359 C27.1032967,67.4618524 27.050833,68.3547881 26.466643,68.8733124 C26.1958171,69.1135008 25.8583481,69.2307692 25.523715,69.2307692" id="Fill-5"></path>
+                                            <path d="M46.7920596,98.9010989 C33.9327898,98.9010989 25.9469692,96.1120879 25.613754,95.9934066 C24.8764268,95.7306122 24.4921659,94.9238619 24.7559022,94.189168 C25.0182205,93.4544741 25.8250266,93.0687598 26.5666076,93.3315542 C26.6445941,93.3583987 34.4630982,96.0753532 46.7920596,96.0753532 C59.1082595,96.0753532 66.6445941,93.3640502 66.7197448,93.3372057 C67.455654,93.0687598 68.2695498,93.4417582 68.5403758,94.1736264 C68.8112017,94.9054945 68.4368664,95.7164835 67.703793,95.9877551 C67.3819213,96.1064364 59.6598369,98.9010989 46.7920596,98.9010989" id="Fill-7"></path>
+                                            <path d="M26.0914569,96.0753532 C25.6944346,96.0753532 25.3002481,95.9100471 25.0194966,95.589325 C24.7784474,95.310989 19.0372208,88.6860283 13.0549451,78.8425432 C7.17617866,69.1714286 0.357320099,60.1897959 0.287841191,60.1007849 C-0.184331797,59.4791209 -0.0623892237,58.5932496 0.561503013,58.1213501 C1.18397731,57.6494505 2.07444169,57.7695447 2.54803261,58.3926217 C2.61609358,58.4844584 9.52286423,67.577708 15.4810351,77.3788069 C21.3314428,87.0032967 27.1038639,93.6706436 27.1619993,93.7370487 C27.6752924,94.3262166 27.6114853,95.2191523 27.0202056,95.7291994 C26.7507976,95.9609105 26.4204183,96.0753532 26.0914569,96.0753532" id="Fill-9"></path>
+                                            <path d="M53.8817441,21.1930926 L48.2099965,21.1930926 C47.4272953,21.1930926 46.7920596,20.5601256 46.7920596,19.7802198 C46.7920596,19.000314 47.4272953,18.3673469 48.2099965,18.3673469 L53.8817441,18.3673469 C54.6644452,18.3673469 55.299681,19.000314 55.299681,19.7802198 C55.299681,20.5601256 54.6644452,21.1930926 53.8817441,21.1930926" id="Fill-11"></path>
+                                            <path d="M42.5382488,12.7158556 C42.175257,12.7158556 41.8122652,12.577394 41.5357675,12.3018838 C40.9813541,11.7508634 40.9813541,10.855102 41.5357675,10.3040816 L45.7895782,6.06546311 C46.3439915,5.51302983 47.2401276,5.51302983 47.7945409,6.06546311 C48.3489543,6.61648352 48.3489543,7.5122449 47.7945409,8.06326531 L43.5407302,12.3018838 C43.2642325,12.577394 42.9012407,12.7158556 42.5382488,12.7158556" id="Fill-13"></path>
+                                            <path d="M32.6126905,8.47723705 C31.8299894,8.47723705 31.1947536,7.84427002 31.1947536,7.06436421 L31.1947536,1.41287284 C31.1947536,0.632967033 31.8299894,0 32.6126905,0 C33.3953917,0 34.0306274,0.632967033 34.0306274,1.41287284 L34.0306274,7.06436421 C34.0306274,7.84427002 33.3953917,8.47723705 32.6126905,8.47723705" id="Fill-15"></path>
+                                            <path d="M22.6871322,12.7158556 C22.3241404,12.7158556 21.9611485,12.577394 21.6846508,12.3018838 L17.4308401,8.06326531 C16.8764268,7.5122449 16.8764268,6.61648352 17.4308401,6.06546311 C17.9852535,5.51302983 18.8813896,5.51302983 19.4358029,6.06546311 L23.6896136,10.3040816 C24.2440269,10.855102 24.2440269,11.7508634 23.6896136,12.3018838 C23.4131159,12.577394 23.0501241,12.7158556 22.6871322,12.7158556" id="Fill-17"></path>
+                                            <path d="M17.0153846,21.1930926 L11.343637,21.1930926 C10.5609358,21.1930926 9.92570011,20.5601256 9.92570011,19.7802198 C9.92570011,19.000314 10.5609358,18.3673469 11.343637,18.3673469 L17.0153846,18.3673469 C17.7980858,18.3673469 18.4333215,19.000314 18.4333215,19.7802198 C18.4333215,20.5601256 17.7980858,21.1930926 17.0153846,21.1930926" id="Fill-19"></path>
+                                        </g>
+                                    </g>
+                                    <g id="Group-3" transform="translate(474.725275, 0.000000)">
+                                        <g id="Group-2-Copy" stroke-width="1.0989011">
+                                            <rect id="Rectangle-3" stroke="#979797" x="-0.549450549" y="0.549450549" width="100" height="100"></rect>
+                                            <rect id="Rectangle-3-Copy" stroke="#087BB4" x="-0.549450549" y="19.4505629" width="100" height="60.4395604"></rect>
+                                            <path d="M49.4505495,100.549451 L49.4505495,80.329677" id="Line-2" stroke="#087BB4" stroke-linecap="square"></path>
+                                            <path d="M49.4505495,19.1208724 L49.4505495,0.659347367" id="Line-2-Copy" stroke="#087BB4" stroke-linecap="square"></path>
+                                        </g>
+                                        <g id="Page-1" transform="translate(0.000000, 20.109877)" fill="#000000">
+                                            <path d="M3.2967033,56.1163187 L95.6043956,56.1163187 L95.6043956,3.29653846 L3.2967033,3.29653846 L3.2967033,56.1163187 Z M97.2527473,59.413022 L1.64835165,59.413022 C0.736813187,59.413022 0,58.6745604 0,57.7646703 L0,1.64818681 C0,0.738296703 0.736813187,-0.000164835165 1.64835165,-0.000164835165 L97.2527473,-0.000164835165 C98.1642857,-0.000164835165 98.9010989,0.738296703 98.9010989,1.64818681 L98.9010989,57.7646703 C98.9010989,58.6745604 98.1642857,59.413022 97.2527473,59.413022 Z" id="Fill-1"></path>
+                                            <path d="M48.8324176,16.4882967 C42.9527473,16.4882967 37.982967,22.6185165 37.982967,29.8762088 C37.982967,37.1141209 42.8505495,43.002033 48.8324176,43.002033 C54.628022,43.002033 59.3406593,37.1141209 59.3406593,29.8762088 C59.3406593,22.4948901 54.628022,16.4882967 48.8324176,16.4882967 M48.8324176,46.2987363 C41.0324176,46.2987363 34.6862637,38.9322527 34.6862637,29.8762088 C34.6862637,20.8317033 41.1642857,13.1915934 48.8324176,13.1915934 C56.4445055,13.1915934 62.6373626,20.6767582 62.6373626,29.8762088 C62.6373626,39.0855495 56.5730769,46.2987363 48.8324176,46.2987363" id="Fill-3"></path>
+                                            <path d="M18.1318681,49.5229121 L13.1868132,49.5229121 C12.2752747,49.5229121 11.5384615,48.7844505 11.5384615,47.8745604 C11.5384615,46.9646703 12.2752747,46.2262088 13.1868132,46.2262088 L18.1318681,46.2262088 C19.0434066,46.2262088 19.7802198,46.9646703 19.7802198,47.8745604 C19.7802198,48.7844505 19.0434066,49.5229121 18.1318681,49.5229121" id="Fill-4"></path>
+                                            <path d="M85.7142857,13.2591758 L80.7692308,13.2591758 C79.8576923,13.2591758 79.1208791,12.5207143 79.1208791,11.6108242 C79.1208791,10.7009341 79.8576923,9.96247253 80.7692308,9.96247253 L85.7142857,9.96247253 C86.6258242,9.96247253 87.3626374,10.7009341 87.3626374,11.6108242 C87.3626374,12.5207143 86.6258242,13.2591758 85.7142857,13.2591758" id="Fill-5"></path>
+                                        </g>
+                                    </g>
+                                    <g id="Group-3-Copy" transform="translate(710.989011, 0.000000)">
+                                        <g id="Group-2-Copy">
+                                            <rect id="Rectangle-3" stroke="#979797" stroke-width="1.0989011" x="-0.549450549" y="0.549450549" width="100" height="100"></rect>
+                                            <path d="M-0.549450549,5.49450549 L99.4505495,5.49450549 L99.4505495,95.0549451 L-0.549450549,95.0549451 L-0.549450549,5.49450549 Z" id="Rectangle-3-Copy" stroke="#087BB4" stroke-width="1.0989011"></path>
+                                            <path d="M49.4505495,100.549451 L49.4505495,96.1196386" id="Line-2" stroke="#087BB4" stroke-width="1.0989011" stroke-linecap="square"></path>
+                                            <path d="M49.4505495,6.07191667 L49.4505495,0.659347367" id="Line-2-Copy" stroke="#087BB4" stroke-width="1.0989011" stroke-linecap="square"></path>
+                                            <g id="Page-1" transform="translate(0.000000, 6.043956)" fill="#000000">
+                                                <path d="M93.956044,69.2307692 L37.9120879,69.2307692 C37.0021978,69.2307692 36.2637363,68.4923077 36.2637363,67.5824176 C36.2637363,66.6725275 37.0021978,65.9340659 37.9120879,65.9340659 L93.956044,65.9340659 C94.8642857,65.9340659 95.6043956,65.193956 95.6043956,64.2857143 L95.6043956,4.94505495 C95.6043956,4.03681319 94.8642857,3.2967033 93.956044,3.2967033 L4.94505495,3.2967033 C4.03681319,3.2967033 3.2967033,4.03681319 3.2967033,4.94505495 L3.2967033,64.2857143 C3.2967033,65.193956 4.03681319,65.9340659 4.94505495,65.9340659 L21.4285714,65.9340659 C22.3384615,65.9340659 23.0769231,66.6725275 23.0769231,67.5824176 C23.0769231,68.4923077 22.3384615,69.2307692 21.4285714,69.2307692 L4.94505495,69.2307692 C2.21868132,69.2307692 0,67.0120879 0,64.2857143 L0,4.94505495 C0,2.21868132 2.21868132,0 4.94505495,0 L93.956044,0 C96.6824176,0 98.9010989,2.21868132 98.9010989,4.94505495 L98.9010989,64.2857143 C98.9010989,67.0120879 96.6824176,69.2307692 93.956044,69.2307692" id="Fill-1"></path>
+                                                <path d="M79.1208791,23.0769231 L19.7802198,23.0769231 C18.8703297,23.0769231 18.1318681,22.3384615 18.1318681,21.4285714 C18.1318681,20.5186813 18.8703297,19.7802198 19.7802198,19.7802198 L79.1208791,19.7802198 C80.0307692,19.7802198 80.7692308,20.5186813 80.7692308,21.4285714 C80.7692308,22.3384615 80.0307692,23.0769231 79.1208791,23.0769231" id="Fill-3"></path>
+                                                <path d="M79.1208791,36.2637363 L19.7802198,36.2637363 C18.8703297,36.2637363 18.1318681,35.5252747 18.1318681,34.6153846 C18.1318681,33.7054945 18.8703297,32.967033 19.7802198,32.967033 L79.1208791,32.967033 C80.0307692,32.967033 80.7692308,33.7054945 80.7692308,34.6153846 C80.7692308,35.5252747 80.0307692,36.2637363 79.1208791,36.2637363" id="Fill-5"></path>
+                                                <path d="M59.3406593,49.4505495 L19.7802198,49.4505495 C18.8703297,49.4505495 18.1318681,48.7120879 18.1318681,47.8021978 C18.1318681,46.8923077 18.8703297,46.1538462 19.7802198,46.1538462 L59.3406593,46.1538462 C60.2505495,46.1538462 60.989011,46.8923077 60.989011,47.8021978 C60.989011,48.7120879 60.2505495,49.4505495 59.3406593,49.4505495" id="Fill-7"></path>
+                                                <path d="M21.4285714,89.010989 C21.2406593,89.010989 21.0510989,88.978022 20.8681319,88.9120879 C20.2153846,88.6763736 19.7802198,88.0565934 19.7802198,87.3626374 L19.7802198,67.5824176 C19.7802198,66.6725275 20.5186813,65.9340659 21.4285714,65.9340659 C22.3384615,65.9340659 23.0769231,66.6725275 23.0769231,67.5824176 L23.0769231,82.8098901 L36.6461538,66.5274725 C37.228022,65.8285714 38.2664835,65.732967 38.967033,66.3164835 C39.6659341,66.8983516 39.7615385,67.9384615 39.178022,68.6373626 L22.6945055,88.4175824 C22.3763736,88.8016484 21.9082418,89.010989 21.4285714,89.010989" id="Fill-9"></path>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="Group-4" transform="translate(112.087912, 39.560440)" stroke="#087BB4" stroke-linecap="square" stroke-width="2.1978022">
+                                        <path d="M1.64835165,13.7362637 L111.675738,13.7362637" id="Line"></path>
+                                        <path d="M1.64835165,0.549450549 L1.64835165,25.9195525" id="Line-4"></path>
+                                        <path d="M113.736264,0.549450549 L113.736264,25.9195525" id="Line-4-Copy-2"></path>
+                                    </g>
+                                    <g id="Group-4-Copy" transform="translate(348.351648, 39.560440)" stroke="#087BB4" stroke-linecap="square" stroke-width="2.1978022">
+                                        <path d="M1.64835165,13.7362637 L111.675738,13.7362637" id="Line"></path>
+                                        <path d="M1.64835165,0.549450549 L1.64835165,25.9195525" id="Line-4"></path>
+                                        <path d="M113.736264,0.549450549 L113.736264,25.9195525" id="Line-4-Copy-2"></path>
+                                    </g>
+                                    <g id="Group-4-Copy-2" transform="translate(584.615385, 39.560440)" stroke="#087BB4" stroke-linecap="square" stroke-width="2.1978022">
+                                        <path d="M1.64835165,13.7362637 L111.675738,13.7362637" id="Line"></path>
+                                        <path d="M1.64835165,0.549450549 L1.64835165,25.9195525" id="Line-4"></path>
+                                        <path d="M113.736264,0.549450549 L113.736264,25.9195525" id="Line-4-Copy-2"></path>
+                                    </g>
+                                </g>
+                                <g id="Group-3-Copy" transform="translate(0.000000, 608.791209)">
+                                    <g id="Group-2-Copy">
+                                        <rect id="Rectangle-3" x="0" y="0" width="98.9010989" height="98.9010989"></rect>
+                                        <g id="Page-1" transform="translate(0.000000, 4.945055)" fill="#BE207A">
+                                            <path d="M93.956044,69.2307692 L37.9120879,69.2307692 C37.0021978,69.2307692 36.2637363,68.4923077 36.2637363,67.5824176 C36.2637363,66.6725275 37.0021978,65.9340659 37.9120879,65.9340659 L93.956044,65.9340659 C94.8642857,65.9340659 95.6043956,65.193956 95.6043956,64.2857143 L95.6043956,4.94505495 C95.6043956,4.03681319 94.8642857,3.2967033 93.956044,3.2967033 L4.94505495,3.2967033 C4.03681319,3.2967033 3.2967033,4.03681319 3.2967033,4.94505495 L3.2967033,64.2857143 C3.2967033,65.193956 4.03681319,65.9340659 4.94505495,65.9340659 L21.4285714,65.9340659 C22.3384615,65.9340659 23.0769231,66.6725275 23.0769231,67.5824176 C23.0769231,68.4923077 22.3384615,69.2307692 21.4285714,69.2307692 L4.94505495,69.2307692 C2.21868132,69.2307692 0,67.0120879 0,64.2857143 L0,4.94505495 C0,2.21868132 2.21868132,0 4.94505495,0 L93.956044,0 C96.6824176,0 98.9010989,2.21868132 98.9010989,4.94505495 L98.9010989,64.2857143 C98.9010989,67.0120879 96.6824176,69.2307692 93.956044,69.2307692" id="Fill-1"></path>
+                                            <path d="M79.1208791,23.0769231 L19.7802198,23.0769231 C18.8703297,23.0769231 18.1318681,22.3384615 18.1318681,21.4285714 C18.1318681,20.5186813 18.8703297,19.7802198 19.7802198,19.7802198 L79.1208791,19.7802198 C80.0307692,19.7802198 80.7692308,20.5186813 80.7692308,21.4285714 C80.7692308,22.3384615 80.0307692,23.0769231 79.1208791,23.0769231" id="Fill-3"></path>
+                                            <path d="M79.1208791,36.2637363 L19.7802198,36.2637363 C18.8703297,36.2637363 18.1318681,35.5252747 18.1318681,34.6153846 C18.1318681,33.7054945 18.8703297,32.967033 19.7802198,32.967033 L79.1208791,32.967033 C80.0307692,32.967033 80.7692308,33.7054945 80.7692308,34.6153846 C80.7692308,35.5252747 80.0307692,36.2637363 79.1208791,36.2637363" id="Fill-5"></path>
+                                            <path d="M59.3406593,49.4505495 L19.7802198,49.4505495 C18.8703297,49.4505495 18.1318681,48.7120879 18.1318681,47.8021978 C18.1318681,46.8923077 18.8703297,46.1538462 19.7802198,46.1538462 L59.3406593,46.1538462 C60.2505495,46.1538462 60.989011,46.8923077 60.989011,47.8021978 C60.989011,48.7120879 60.2505495,49.4505495 59.3406593,49.4505495" id="Fill-7"></path>
+                                            <path d="M21.4285714,89.010989 C21.2406593,89.010989 21.0510989,88.978022 20.8681319,88.9120879 C20.2153846,88.6763736 19.7802198,88.0565934 19.7802198,87.3626374 L19.7802198,67.5824176 C19.7802198,66.6725275 20.5186813,65.9340659 21.4285714,65.9340659 C22.3384615,65.9340659 23.0769231,66.6725275 23.0769231,67.5824176 L23.0769231,82.8098901 L36.6461538,66.5274725 C37.228022,65.8285714 38.2664835,65.732967 38.967033,66.3164835 C39.6659341,66.8983516 39.7615385,67.9384615 39.178022,68.6373626 L22.6945055,88.4175824 C22.3763736,88.8016484 21.9082418,89.010989 21.4285714,89.010989" id="Fill-9"></path>
+                                        </g>
+                                    </g>
+                                </g>
+                                <text id="Default" font-family="FrutigerLTforBNS-Bold, Frutiger LT for BNS" font-size="17.5824176" font-weight="bold" fill="#333333">
+                                    <tspan x="0" y="934.582418">Default</tspan>
+                                </text>
+                                <text id="Hover" font-family="FrutigerLTforBNS-Bold, Frutiger LT for BNS" font-size="17.5824176" font-weight="bold" fill="#333333">
+                                    <tspan x="0" y="1157.65934">Hover</tspan>
+                                </text>
+                                <g id="consejo" filter="url(#filter-11)" transform="translate(112.087912, 1429.670330)">
+                                    <path d="M0,89.010989 L769.230769,89.010989 L769.230769,264.835165 C769.230769,273.93876 761.850848,281.318681 752.747253,281.318681 L16.4835165,281.318681 C7.37992171,281.318681 1.53257235e-14,273.93876 1.42108547e-14,264.835165 L0,89.010989 Z" id="Rectangle" fill="#FFFFFF"></path>
+                                    <path d="M16.4835165,0 L752.747253,0 C761.850848,-1.67230323e-15 769.230769,7.37992171 769.230769,16.4835165 L769.230769,89.010989 L0,89.010989 L-3.55271368e-15,16.4835165 C-4.6675825e-15,7.37992171 7.37992171,-5.43312413e-15 16.4835165,-7.10542736e-15 Z" id="Rectangle" fill="#BE207A"></path>
+                                    <g id="txt" transform="translate(35.164835, 124.175824)">
+                                        <circle id="Oval" fill="#757575" cx="4.3956044" cy="12.0879121" r="4.3956044"></circle>
+                                        <text id="Si-utilizamos-iconos" font-family="FrutigerLTforBNS-Bold, Frutiger LT for BNS" font-size="17.5824176" font-weight="bold" fill="#333333">
+                                            <tspan x="26.3736264" y="17">Si utilizamos iconos de nuestra biblioteca, siempre debemos utilizarlos como </tspan>
+                                            <tspan x="26.3736264" y="38">tipografía.</tspan>
+                                        </text>
+                                    </g>
+                                    <g id="txt-copy" transform="translate(35.164835, 183.516484)">
+                                        <circle id="Oval" fill="#757575" cx="4.3956044" cy="12.0879121" r="4.3956044"></circle>
+                                        <text id="En-el-caso-exepciona" font-family="FrutigerLTforBNS-Bold, Frutiger LT for BNS" font-size="17.5824176" font-weight="bold" fill="#333333">
+                                            <tspan x="26.3736264" y="17">En el caso exepcional de tener que utilizar algún icono que no esté en nuestra </tspan>
+                                            <tspan x="26.3736264" y="38">biblioteca, debemos utilizarlo en .svg y aprovechar esta oportunidad para </tspan>
+                                            <tspan x="26.3736264" y="59">potenciar SEO con el atributo alt.</tspan>
+                                        </text>
+                                    </g>
+                                    <text id="Consejo-Front-end" font-family="FrutigerLTforBNS-Bold, Frutiger LT for BNS" font-size="37.3626374" font-weight="bold" fill="#FFFFFF">
+                                        <tspan x="124.175824" y="57.978022">Consejo Front-end</tspan>
+                                    </text>
+                                    <g id="icon-/-libreria-/-front-end" transform="translate(35.164835, 17.582418)">
+                                        <g id="Group" transform="translate(0.899101, 5.394605)">
+                                            <g id="Group-3" transform="translate(0.000000, 0.794473)">
+                                                <mask id="mask-13" fill="white">
+                                                    <use xlink:href="#path-12"></use>
+                                                </mask>
+                                                <g id="Clip-2"></g>
+                                                <path d="M2.60739261,1.81292008 C2.1285015,1.81292008 1.73826174,2.20229071 1.73826174,2.68205095 L1.73826174,39.1108022 C1.73826174,39.5905624 2.1285015,39.9799331 2.60739261,39.9799331 L49.5404595,39.9799331 C50.0193506,39.9799331 50.4095904,39.5905624 50.4095904,39.1108022 L50.4095904,2.68205095 C50.4095904,2.20229071 50.0193506,1.81292008 49.5404595,1.81292008 L2.60739261,1.81292008 Z M49.5404595,41.7181948 L2.60739261,41.7181948 C1.16985015,41.7181948 0,40.5483447 0,39.1108022 L0,2.68205095 C0,1.24450849 1.16985015,0.0746583417 2.60739261,0.0746583417 L49.5404595,0.0746583417 C50.978002,0.0746583417 52.1478521,1.24450849 52.1478521,2.68205095 L52.1478521,39.1108022 C52.1478521,40.5483447 50.978002,41.7181948 49.5404595,41.7181948 Z" id="Fill-1" fill="#FFFFFF" mask="url(#mask-13)"></path>
+                                            </g>
+                                            <path d="M51.2787213,9.56043956 L0.869130869,9.56043956 C0.389370629,9.56043956 0,9.17193806 0,8.69130869 C0,8.21067932 0.389370629,7.82217782 0.869130869,7.82217782 L51.2787213,7.82217782 C51.7584815,7.82217782 52.1478521,8.21067932 52.1478521,8.69130869 C52.1478521,9.17193806 51.7584815,9.56043956 51.2787213,9.56043956" id="Fill-4" fill="#FFFFFF"></path>
+                                            <path d="M21.7274026,33.026973 C21.5049051,33.026973 21.2824076,32.9417982 21.1129271,32.7723177 L14.1607493,25.8192707 C13.8209191,25.4794406 13.8209191,24.9301499 14.1607493,24.5903197 L21.1137962,17.6372727 C21.4536264,17.2974426 22.0029171,17.2974426 22.3427473,17.6372727 C22.6825774,17.9771029 22.6825774,18.5263936 22.3427473,18.8662238 L16.0041758,25.2047952 L22.3418781,31.5433666 C22.6817083,31.8831968 22.6817083,32.4324875 22.3418781,32.7723177 C22.1723976,32.9417982 21.9499001,33.026973 21.7274026,33.026973" id="Fill-6" fill="#FFFFFF"></path>
+                                            <path d="M30.4195804,33.026973 C30.1970829,33.026973 29.9745854,32.9417982 29.8051049,32.7723177 C29.4652747,32.4324875 29.4652747,31.8831968 29.8051049,31.5433666 L36.1436763,25.2047952 L29.8051049,18.8662238 C29.4652747,18.5263936 29.4652747,17.9771029 29.8051049,17.6372727 C30.1449351,17.2974426 30.6942258,17.2974426 31.0340559,17.6372727 L37.9871029,24.5903197 C38.3269331,24.9301499 38.3269331,25.4794406 37.9871029,25.8192707 L31.0340559,32.7723177 C30.8645754,32.9417982 30.6420779,33.026973 30.4195804,33.026973" id="Fill-8" fill="#FFFFFF"></path>
+                                            <path d="M4.37155445,6.08391608 C3.89179421,6.08391608 3.49807792,5.69541459 3.49807792,5.21478521 C3.49807792,4.73415584 3.8831029,4.34565435 4.36286314,4.34565435 L4.37155445,4.34565435 C4.85218382,4.34565435 5.24068531,4.73415584 5.24068531,5.21478521 C5.24068531,5.69541459 4.85218382,6.08391608 4.37155445,6.08391608" id="Fill-10" fill="#FFFFFF"></path>
+                                            <path d="M6.97894705,6.08391608 C6.49918681,6.08391608 6.10547053,5.69541459 6.10547053,5.21478521 C6.10547053,4.73415584 6.4904955,4.34565435 6.97025574,4.34565435 L6.97894705,4.34565435 C7.45957642,4.34565435 7.84807792,4.73415584 7.84807792,5.21478521 C7.84807792,5.69541459 7.45957642,6.08391608 6.97894705,6.08391608" id="Fill-12" fill="#FFFFFF"></path>
+                                            <path d="M9.58633966,6.08391608 C9.10657942,6.08391608 8.71286314,5.69541459 8.71286314,5.21478521 C8.71286314,4.73415584 9.09788811,4.34565435 9.57764835,4.34565435 L9.58633966,4.34565435 C10.066969,4.34565435 10.4554705,4.73415584 10.4554705,5.21478521 C10.4554705,5.69541459 10.066969,6.08391608 9.58633966,6.08391608" id="Fill-14" fill="#FFFFFF"></path>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Group-5">
+                                <text id="Botones-mobile" font-family="FrutigerLTforBNS-Bold, Frutiger LT for BNS" font-size="54.9450549" font-weight="bold" fill="#333333">
+                                    <tspan x="0" y="1783.76923">Botones mobile</tspan>
+                                </text>
+                                <polygon id="Rectangle-8" fill="#F6F7FC" fill-rule="nonzero" points="0 1863.73626 991.208791 1863.73626 991.208791 2738.46154 0 2738.46154"></polygon>
+                                <g id="Botón-secundario" transform="translate(0.000000, 715.384615)">
+                                    <text font-family="FrutigerLTforBNS-Roman, Frutiger LT for BNS" font-size="26.3736264" font-weight="normal" fill="#333333">
+                                        <tspan x="0" y="25">Botón secundario</tspan>
+                                    </text>
+                                    <g id="Consejo" filter="url(#filter-14)" transform="translate(449.450549, 0.000000)">
+                                        <path d="M0,62.6373626 L439.56044,62.6373626 L439.56044,523.076923 C439.56044,532.180518 432.180518,539.56044 423.076923,539.56044 L16.4835165,539.56044 C7.37992171,539.56044 -1.66486996e-14,532.180518 -1.77635684e-14,523.076923 L0,62.6373626 Z" id="Rectangle-Copy" fill="#FFFFFF"></path>
+                                        <text id=".btn-secundario-{-bo" font-family="FrutigerLTforBNS-Roman, Frutiger LT for BNS" font-size="16.4835165" font-weight="normal" fill="#333333">
+                                            <tspan x="35.1648352" y="105.010989">.btn-secundario {</tspan>
+                                            <tspan x="35.1648352" y="125.010989">	border: solid 1px #ED0722;</tspan>
+                                            <tspan x="35.1648352" y="145.010989">	border-radius: 8px;</tspan>
+                                            <tspan x="35.1648352" y="165.010989">	color: #ED0722;</tspan>
+                                            <tspan x="35.1648352" y="185.010989">	cursor: pointer;</tspan>
+                                            <tspan x="35.1648352" y="205.010989">	display: inline-block;</tspan>
+                                            <tspan x="35.1648352" y="225.010989">	margin: 24px;</tspan>
+                                            <tspan x="35.1648352" y="245.010989">	padding: 16px 24px;</tspan>
+                                            <tspan x="35.1648352" y="265.010989">	text-align: center;</tspan>
+                                            <tspan x="35.1648352" y="285.010989">	text-decoration: none;</tspan>
+                                            <tspan x="35.1648352" y="305.010989">	-webkit-transition: all 0.5s ease-in-out;</tspan>
+                                            <tspan x="35.1648352" y="325.010989">	-moz-transition: all 0.5s ease-in-out;</tspan>
+                                            <tspan x="35.1648352" y="345.010989">	-ms-transition: all 0.5s ease-in-out;</tspan>
+                                            <tspan x="35.1648352" y="365.010989">	-o-transition: all 0.5s ease-in-out;</tspan>
+                                            <tspan x="35.1648352" y="385.010989">	transition: all 0.5s ease-in-out;</tspan>
+                                            <tspan x="35.1648352" y="405.010989">	}</tspan>
+                                            <tspan x="35.1648352" y="425.010989"></tspan>
+                                            <tspan x="35.1648352" y="445.010989">.btn-secundario:hover {</tspan>
+                                            <tspan x="35.1648352" y="465.010989">	background-color: #ED0722;</tspan>
+                                            <tspan x="35.1648352" y="485.010989">	color:#FFFFFF;</tspan>
+                                            <tspan x="35.1648352" y="505.010989">	}</tspan>
+                                        </text>
+                                        <path d="M16.4835165,0 L423.076923,0 C432.180518,-1.67230323e-15 439.56044,7.37992171 439.56044,16.4835165 L439.56044,62.6373626 L0,62.6373626 L0,16.4835165 C-1.11486882e-15,7.37992171 7.37992171,-1.88041045e-15 16.4835165,-3.55271368e-15 Z" id="Rectangle" fill="#EBEBEB"></path>
+                                        <text id="Código" font-family="FrutigerLTforBNS-Roman, Frutiger LT for BNS" font-size="26.3736264" font-weight="normal" fill="#333333">
+                                            <tspan x="87.9120879" y="40.3846154">Código</tspan>
+                                        </text>
+                                        <g id="icon-/-libreria-/-codigo" transform="translate(26.373626, 14.285714)" fill="#333333">
+                                            <g id="Page-1" transform="translate(0.582751, 2.331002)">
+                                                <path d="M8.44988345,23.0966861 C8.30567211,23.0966861 8.16146076,23.0414802 8.05161228,22.9316317 L0.16505439,15.0473271 C0.0591491841,14.9414219 0,14.7989005 0,14.6490559 C0,14.4997747 0.0591491841,14.3561267 0.16505439,14.2507848 L8.05161228,6.36197358 C8.27187257,6.14171329 8.62789433,6.14171329 8.84815462,6.36197358 C9.06841492,6.58223388 9.06841492,6.93825563 8.84815462,7.15851593 L1.35986791,14.6490559 L8.84815462,22.1350894 C9.06841492,22.3553497 9.06841492,22.7113714 8.84815462,22.9316317 C8.73830614,23.0414802 8.59409479,23.0966861 8.44988345,23.0966861" id="Fill-1"></path>
+                                                <path d="M25.3496503,23.0988831 C25.205439,23.0988831 25.0612277,23.0436772 24.9513792,22.9338287 C24.7311189,22.7135684 24.7311189,22.3575466 24.9513792,22.1372863 L32.4396659,14.6467463 L24.9513792,7.1607129 C24.7311189,6.9404526 24.7311189,6.58443085 24.9513792,6.36417055 C25.1716395,6.14391026 25.5276612,6.14391026 25.7479215,6.36417055 L33.6344794,14.2484751 C33.7403846,14.3543803 33.7995338,14.4969017 33.7995338,14.6467463 C33.7995338,14.7960276 33.7403846,14.9396756 33.6344794,15.0450175 L25.7479215,22.9338287 C25.638073,23.0436772 25.4938617,23.0988831 25.3496503,23.0988831" id="Fill-3"></path>
+                                                <path d="M12.3931624,29.2932673 C12.3362665,29.2932673 12.2788073,29.2842541 12.2213481,29.2662277 C11.9250389,29.171589 11.7616744,28.855 11.8568765,28.5581274 L20.8700855,0.391849262 C20.9647242,0.0955400155 21.2790598,-0.0683877234 21.5781857,0.0273776224 C21.8744949,0.122016317 22.0378594,0.438605284 21.9426573,0.735477855 L12.9294483,28.901756 C12.8528361,29.1406061 12.6320124,29.2932673 12.3931624,29.2932673" id="Fill-5"></path>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="secundario-default" transform="translate(0.000000, 97.802198)">
+                                        <g id="button-/-secundario-/-default" transform="translate(0.000000, 47.252747)">
+                                            <rect id="Background" stroke="#ED0722" stroke-width="2.1978022" fill-opacity="0" fill="#FFFFFF" fill-rule="evenodd" x="0" y="0" width="185.814186" height="56.043956" rx="8.79120879"></rect>
+                                            <text id="Button" font-family="FrutigerLTforBNS-Bold, Frutiger LT for BNS" font-size="17.5824176" font-weight="bold" fill="#ED0722">
+                                                <tspan x="26.3736264" y="34.5824176">Simula y solicita</tspan>
+                                            </text>
+                                        </g>
+                                        <text id="Default" font-family="FrutigerLTforBNS-Bold, Frutiger LT for BNS" font-size="17.5824176" font-weight="bold" fill="#333333">
+                                            <tspan x="0" y="17">Default</tspan>
+                                        </text>
+                                    </g>
+                                    <g id="secundario-hover" transform="translate(0.000000, 267.032967)">
+                                        <g id="button-/-primario-/-default" transform="translate(0.000000, 47.252747)">
+                                            <path d="M8.79120879,0 L177.022977,1.77635684e-15 C181.878228,-1.63648533e-14 185.814186,3.93595824 185.814186,8.79120879 L185.814186,47.2527473 C185.814186,52.1079978 181.878228,56.043956 177.022977,56.043956 L8.79120879,56.043956 C3.93595824,56.043956 -2.95811697e-15,52.1079978 -3.55271368e-15,47.2527473 L1.77635684e-15,8.79120879 C1.18176014e-15,3.93595824 3.93595824,2.6682519e-15 8.79120879,1.77635684e-15 Z" id="Background" fill="#ED0722" fill-rule="evenodd"></path>
+                                            <text id="Button" font-family="FrutigerLTforBNS-Bold, Frutiger LT for BNS" font-size="17.5824176" font-weight="bold" fill="#FFFFFF">
+                                                <tspan x="26.3736264" y="34.5824176">Simula y solicita</tspan>
+                                            </text>
+                                        </g>
+                                        <text id="Hover" font-family="FrutigerLTforBNS-Bold, Frutiger LT for BNS" font-size="17.5824176" font-weight="bold" fill="#333333">
+                                            <tspan x="0" y="17">Hover</tspan>
+                                        </text>
+                                    </g>
+                                </g>
+                                <g id="Botón-plano" transform="translate(0.000000, 1320.879121)">
+                                    <text font-family="FrutigerLTforBNS-Roman, Frutiger LT for BNS" font-size="26.3736264" font-weight="normal" fill="#333333">
+                                        <tspan x="0" y="25">Botón plano</tspan>
+                                    </text>
+                                    <g id="Consejo" filter="url(#filter-15)" transform="translate(449.450549, 0.000000)">
+                                        <path d="M0,62.6373626 L439.56044,62.6373626 L439.56044,206.593407 C439.56044,215.697001 432.180518,223.076923 423.076923,223.076923 L16.4835165,223.076923 C7.37992171,223.076923 -1.66486996e-14,215.697001 -1.77635684e-14,206.593407 L0,62.6373626 Z" id="Rectangle-Copy" fill="#FFFFFF"></path>
+                                        <path d="M16.4835165,0 L423.076923,0 C432.180518,-1.67230323e-15 439.56044,7.37992171 439.56044,16.4835165 L439.56044,62.6373626 L0,62.6373626 L0,16.4835165 C-1.11486882e-15,7.37992171 7.37992171,-1.88041045e-15 16.4835165,-3.55271368e-15 Z" id="Rectangle" fill="#EBEBEB"></path>
+                                        <text id="Código" font-family="FrutigerLTforBNS-Roman, Frutiger LT for BNS" font-size="26.3736264" font-weight="normal" fill="#333333">
+                                            <tspan x="87.9120879" y="40.3846154">Código</tspan>
+                                        </text>
+                                        <g id="icon-/-libreria-/-codigo" transform="translate(26.373626, 14.285714)" fill="#333333">
+                                            <g id="Page-1" transform="translate(0.582751, 2.331002)">
+                                                <path d="M8.44988345,23.0966861 C8.30567211,23.0966861 8.16146076,23.0414802 8.05161228,22.9316317 L0.16505439,15.0473271 C0.0591491841,14.9414219 0,14.7989005 0,14.6490559 C0,14.4997747 0.0591491841,14.3561267 0.16505439,14.2507848 L8.05161228,6.36197358 C8.27187257,6.14171329 8.62789433,6.14171329 8.84815462,6.36197358 C9.06841492,6.58223388 9.06841492,6.93825563 8.84815462,7.15851593 L1.35986791,14.6490559 L8.84815462,22.1350894 C9.06841492,22.3553497 9.06841492,22.7113714 8.84815462,22.9316317 C8.73830614,23.0414802 8.59409479,23.0966861 8.44988345,23.0966861" id="Fill-1"></path>
+                                                <path d="M25.3496503,23.0988831 C25.205439,23.0988831 25.0612277,23.0436772 24.9513792,22.9338287 C24.7311189,22.7135684 24.7311189,22.3575466 24.9513792,22.1372863 L32.4396659,14.6467463 L24.9513792,7.1607129 C24.7311189,6.9404526 24.7311189,6.58443085 24.9513792,6.36417055 C25.1716395,6.14391026 25.5276612,6.14391026 25.7479215,6.36417055 L33.6344794,14.2484751 C33.7403846,14.3543803 33.7995338,14.4969017 33.7995338,14.6467463 C33.7995338,14.7960276 33.7403846,14.9396756 33.6344794,15.0450175 L25.7479215,22.9338287 C25.638073,23.0436772 25.4938617,23.0988831 25.3496503,23.0988831" id="Fill-3"></path>
+                                                <path d="M12.3931624,29.2932673 C12.3362665,29.2932673 12.2788073,29.2842541 12.2213481,29.2662277 C11.9250389,29.171589 11.7616744,28.855 11.8568765,28.5581274 L20.8700855,0.391849262 C20.9647242,0.0955400155 21.2790598,-0.0683877234 21.5781857,0.0273776224 C21.8744949,0.122016317 22.0378594,0.438605284 21.9426573,0.735477855 L12.9294483,28.901756 C12.8528361,29.1406061 12.6320124,29.2932673 12.3931624,29.2932673" id="Fill-5"></path>
+                                            </g>
+                                        </g>
+                                        <text id=".btn-plano-{-color:" font-family="FrutigerLTforBNS-Roman, Frutiger LT for BNS" font-size="16.4835165" font-weight="normal" fill="#333333">
+                                            <tspan x="35.1648352" y="105.010989">.btn-plano {</tspan>
+                                            <tspan x="35.1648352" y="125.010989">	color: #ED0722;</tspan>
+                                            <tspan x="35.1648352" y="145.010989">	font-size: 15px;</tspan>
+                                            <tspan x="35.1648352" y="165.010989">	line-height: 32px;</tspan>
+                                            <tspan x="35.1648352" y="185.010989">}</tspan>
+                                        </text>
+                                    </g>
+                                    <g id="plano-default" transform="translate(0.000000, 97.802198)">
+                                        <text id="Default" font-family="FrutigerLTforBNS-Bold, Frutiger LT for BNS" font-size="17.5824176" font-weight="bold" fill="#333333">
+                                            <tspan x="0" y="17">Default</tspan>
+                                        </text>
+                                        <g id="button-/-flat-/-default" transform="translate(0.000000, 38.461538)" fill="#ED0722">
+                                            <g id="Group-9" transform="translate(0.000000, 6.709080)">
+                                                <text id="Solicítalo-aqui" font-family="FrutigerLTforBNS-Bold, Frutiger LT for BNS" font-size="17.5824176" font-weight="bold">
+                                                    <tspan x="0" y="17">Solicítalo aqui</tspan>
+                                                </text>
+                                                <g id="icon-/-flecha" transform="translate(134.065934, 0.000000)">
+                                                    <path d="M18.7014404,20.5594406 C18.4112902,20.5594406 18.12114,20.4697277 17.9001272,20.2912173 L6.56613554,11.1368394 C6.12297647,10.7789033 6.12297647,10.2003466 6.56613554,9.8424104 L17.9001272,0.68803255 C18.3432862,0.330096376 19.0595945,0.330096376 19.5027536,0.68803255 C19.9459127,1.04596872 19.9459127,1.6245254 19.5027536,1.98246158 L8.97007516,10.4896249 L19.5027536,18.9967883 C19.9459127,19.3547244 19.9459127,19.9332811 19.5027536,20.2912173 C19.2817407,20.4697277 18.9915906,20.5594406 18.7014404,20.5594406" id="Fill-3" transform="translate(13.034445, 10.489510) rotate(-180.000000) translate(-13.034445, -10.489510) "></path>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="plano-hover" transform="translate(0.000000, 267.032967)">
+                                        <text id="Hover" font-family="FrutigerLTforBNS-Bold, Frutiger LT for BNS" font-size="17.5824176" font-weight="bold" fill="#333333">
+                                            <tspan x="0" y="17">Hover</tspan>
+                                        </text>
+                                        <g id="button-/-flat-/-hover" transform="translate(3.296703, 38.461538)">
+                                            <g id="Group-9" stroke-width="1" fill-rule="evenodd" transform="translate(0.000000, 8.791209)" fill="#ED0722">
+                                                <text id="Solicítalo-aqui" font-family="FrutigerLTforBNS-Bold, Frutiger LT for BNS" font-size="17.5824176" font-weight="bold">
+                                                    <tspan x="0" y="17">Solicítalo aqui</tspan>
+                                                </text>
+                                                <g id="icon-/-flecha" transform="translate(134.065934, 0.000000)">
+                                                    <path d="M15.1050095,20.5594406 C14.8706575,20.5594406 14.6363054,20.4697277 14.457795,20.2912173 L5.30341717,11.1368394 C4.94548099,10.7789033 4.94548099,10.2003466 5.30341717,9.8424104 L14.457795,0.68803255 C14.8157312,0.330096376 15.3942879,0.330096376 15.752224,0.68803255 C16.1101602,1.04596872 16.1101602,1.6245254 15.752224,1.98246158 L7.24506071,10.4896249 L15.752224,18.9967883 C16.1101602,19.3547244 16.1101602,19.9332811 15.752224,20.2912173 C15.5737137,20.4697277 15.3393616,20.5594406 15.1050095,20.5594406" id="Fill-3" transform="translate(10.527821, 10.489510) rotate(-180.000000) translate(-10.527821, -10.489510) "></path>
+                                                </g>
+                                            </g>
+                                            <path d="M0.549450549,35.7142857 L114.879122,35.7142857" id="Line" stroke="#ED0722" stroke-width="2.1978022" stroke-linecap="square"></path>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g id="Botones-mobile" transform="translate(112.087912, 1929.670330)">
+                                    <g id="Group-2">
+                                        <text id="Botón-simple" font-family="FrutigerLTforBNS-Roman, Frutiger LT for BNS" font-size="26.3736264" font-weight="normal" fill="#333333">
+                                            <tspan x="0" y="25">Botón simple</tspan>
+                                        </text>
+                                        <g id="mobile" filter="url(#filter-16)" transform="translate(0.000000, 97.802198)">
+                                            <g id="contenido">
+                                                <polygon id="fondo" fill="#FFFFFF" points="0 0 351.648352 0 351.648352 645.054945 0 645.054945"></polygon>
+                                                <rect id="Rectangle-2" fill="#F6F6F6" x="0" y="450.549451" width="351.648352" height="194.505495"></rect>
+                                                <g id="wireframe" transform="translate(17.582418, 468.131868)" fill="#EBEBEB">
+                                                    <rect id="Rectangle-7" x="0" y="0" width="316.483516" height="29.6703297"></rect>
+                                                    <rect id="Rectangle-7-Copy-2" x="21.978022" y="38.4615385" width="272.527473" height="29.6703297"></rect>
+                                                </g>
+                                                <rect id="Rectangle-3" fill="#EBEBEB" x="17.5824176" y="557.142857" width="316.483516" height="87.9120879"></rect>
+                                                <g id="banner" transform="translate(0.000000, 108.791209)">
+                                                    <g id="Group-3">
+                                                        <g id="508187946">
+                                                            <mask id="mask-18" fill="white">
+                                                                <use xlink:href="#path-17"></use>
+                                                            </mask>
+                                                            <use id="Mask" fill="#AAAAAA" xlink:href="#path-17"></use>
+                                                        </g>
+                                                    </g>
+                                                    <g id="Group" transform="translate(17.582418, 164.835165)" fill="#EBEBEB">
+                                                        <rect id="Rectangle-7-Copy" x="0" y="0" width="298.901099" height="29.6703297"></rect>
+                                                        <rect id="Rectangle-7-Copy-2" x="0" y="38.4615385" width="258.241758" height="29.6703297"></rect>
+                                                    </g>
+                                                </g>
+                                                <rect id="header" fill="#EBEBEB" x="0" y="53.8461538" width="351.648352" height="54.9450549"></rect>
+                                                <g id="Logo-Scotiabank-White" transform="translate(93.406593, 67.032967)" fill="#FFFFFF">
+                                                    <g id="Page-1">
+                                                        <path d="M64.7239623,18.7106509 C66.3636614,18.7106509 67.2594119,17.343787 67.2594119,15.7384615 C67.2594119,14.1384615 66.3636614,12.7721893 64.7239623,12.7721893 C63.0878774,12.7721893 62.2686302,14.1384615 62.2686302,15.7384615 C62.2686302,17.343787 63.167995,18.7106509 64.7239623,18.7106509 M64.7239623,21.4372781 C60.9590395,21.4372781 58.2603428,19.2739645 58.2603428,15.7384615 C58.2603428,12.2881657 61.0463857,10.0337278 64.7239623,10.0337278 C68.4057555,10.0337278 71.2676992,12.2881657 71.2676992,15.7384615 C71.2676992,19.2739645 68.4822588,21.4372781 64.7239623,21.4372781" id="Fill-1"></path>
+                                                        <path d="M110.547169,15.7382249 C110.547169,14.2938462 109.649611,13.0121893 108.173761,13.0121893 C106.863568,13.0121893 105.801559,14.0542012 105.801559,15.7382249 C105.801559,17.344142 106.702128,18.5471006 108.173761,18.5471006 C109.562867,18.5471006 110.547169,17.4252071 110.547169,15.7382249 Z M102.036636,21.2033136 L102.036636,5.78023669 L105.883484,5.78023669 L105.883484,11.0831953 L105.964204,11.0831953 C106.208171,10.9186982 107.433427,10.035858 109.319503,10.035858 C112.344694,10.035858 114.554251,12.3678107 114.554251,15.5808284 C114.554251,19.5133728 112.101931,21.5222485 109.319503,21.5222485 C107.194279,21.5222485 106.046128,20.4766864 105.801559,20.2376331 L105.719032,20.2376331 L105.719032,21.2033136 L102.036636,21.2033136 Z" id="Fill-3"></path>
+                                                        <path d="M83.5450221,4.74059172 C82.3167537,4.74059172 81.3360666,5.70153846 81.3360666,6.82402367 C81.3360666,8.02816568 82.3167537,8.99325444 83.5450221,8.99325444 C84.6883538,8.99325444 85.6690409,8.02816568 85.6690409,6.82402367 C85.6690409,5.70153846 84.6883538,4.74059172 83.5450221,4.74059172 Z M81.5800336,21.2855621 L85.4250739,21.2855621 L85.4250739,10.2849704 L81.5800336,10.2849704 L81.5800336,21.2855621 Z" id="Fill-5"></path>
+                                                        <path d="M130.756009,21.2843787 L134.521534,21.2843787 L134.521534,15.5790533 C134.521534,14.2115976 135.422104,13.3299408 136.564833,13.3299408 C137.880448,13.3299408 138.61777,14.2115976 138.61777,15.5790533 L138.61777,21.2843787 L142.376669,21.2843787 L142.376669,14.6169231 C142.376669,12.1269822 140.819497,10.0370414 137.798523,10.0370414 C135.750405,10.0370414 134.765501,11.0849704 134.278772,11.4873373 L134.193233,11.4873373 L134.193233,10.2814201 L130.756009,10.2814201 L130.756009,21.2843787 Z" id="Fill-7"></path>
+                                                        <polygon id="Fill-9" points="144.590926 21.2843787 148.432954 21.2843787 148.432954 16.1388166 148.513072 16.1388166 151.9515 21.2843787 156.289896 21.2843787 152.113543 15.4204734 156.209779 10.2814201 151.868371 10.2814201 148.513072 14.7749112 148.432954 14.7749112 148.432954 5.78142012 144.590926 5.78142012"></polygon>
+                                                        <path d="M57.4423606,10.4384615 C57.1935745,10.3573964 56.1309627,10.035503 54.7454711,10.035503 C51.2227082,10.035503 48.6041291,12.1260355 48.6041291,15.7384615 C48.6041291,19.0289941 50.8907926,21.4372781 54.5762002,21.4372781 C56.0514476,21.4372781 57.1935745,21.0378698 57.4423606,20.9585799 L57.2773064,17.8236686 C56.9502099,17.9076923 56.2116827,18.391716 55.3141251,18.391716 C53.7581578,18.391716 52.6112117,17.2656805 52.6112117,15.7384615 C52.6112117,14.1384615 53.8412873,13.0899408 55.3954474,13.0899408 C56.2116827,13.0899408 57.0315323,13.4881657 57.2773064,13.6485207 L57.4423606,10.4384615 Z" id="Fill-11"></path>
+                                                        <path d="M91.0719762,15.6578698 C91.0719762,17.4259172 92.1363952,18.6300592 93.4411668,18.6300592 C94.6730495,18.6300592 95.8934869,17.5046154 95.8934869,15.8188166 C95.8934869,14.1389349 94.8332847,12.9300592 93.4411668,12.9300592 C92.0532657,12.9300592 91.0719762,14.1389349 91.0719762,15.6578698 Z M99.7475631,10.284497 L99.7475631,21.284497 L95.8934869,21.284497 L95.8934869,20.1608284 L95.8151765,20.1608284 C95.4067577,20.4768047 94.5073929,21.5223669 92.0532657,21.5223669 C89.3527619,21.5223669 86.9799569,19.1939645 86.9799569,15.7383432 C86.9799569,12.5271006 89.1093972,10.0359763 92.2984374,10.0359763 C94.5073929,10.0359763 95.4067577,11.0046154 95.7374685,11.2424852 L95.8151765,11.2424852 L95.8934869,10.284497 L99.7475631,10.284497 Z" id="Fill-13"></path>
+                                                        <path d="M119.873636,15.6578698 C119.873636,17.4259172 120.855527,18.6300592 122.247645,18.6300592 C123.392784,18.6300592 124.62045,17.5046154 124.62045,15.8188166 C124.62045,14.0543195 123.557236,12.9300592 122.247645,12.9300592 C120.855527,12.9300592 119.873636,14.1389349 119.873636,15.6578698 Z M128.466695,10.284497 L128.466695,21.284497 L124.702375,21.284497 L124.62045,20.1608284 L124.539128,20.1608284 C124.131311,20.4768047 123.228332,21.5223669 120.774205,21.5223669 C118.074304,21.5223669 115.701499,19.1939645 115.701499,15.7383432 C115.701499,12.5271006 117.827325,10.0359763 121.019377,10.0359763 C123.228332,10.0359763 124.131311,10.9188166 124.456601,11.2424852 L124.539128,11.2424852 L124.62045,10.284497 L128.466695,10.284497 Z" id="Fill-15"></path>
+                                                        <path d="M36.3284929,20.8746746 C37.3923095,21.2036686 39.0320087,21.4373964 40.8307382,21.4373964 C44.1035103,21.4373964 47.4539904,20.3166864 47.4539904,16.7007101 C47.4539904,11.8048521 40.4988226,12.5273373 40.4988226,10.5226036 C40.4988226,9.55633136 41.5674583,9.31727811 42.6282629,9.31727811 C44.1035103,9.31727811 45.9046493,10.0368047 46.3118634,10.2001183 L46.640767,6.74923077 C45.5751433,6.42378698 44.1035103,6.26224852 42.6282629,6.26224852 C39.3560932,6.26224852 36.1658483,7.54863905 36.1658483,10.6794083 C36.1658483,15.496568 43.0415009,14.5356213 43.0415009,17.0243787 C43.0415009,17.9888757 42.0553923,18.3918343 40.7445968,18.3918343 C39.0320087,18.3918343 37.3923095,17.5048521 36.6525775,17.2652071 L36.3284929,20.8746746 Z" id="Fill-17"></path>
+                                                        <path d="M79.859253,18.227574 C79.696006,18.3080473 79.2074696,18.4713609 78.7966412,18.4713609 C78.0617283,18.4713609 77.1641707,18.0678107 77.1641707,16.7009467 L77.1641707,13.0121893 L79.6134789,13.0121893 L79.6134789,10.2826036 L77.1641707,10.2826036 L77.1641707,6.74946746 L73.3143113,6.74946746 L73.3143113,10.2826036 L71.5969041,10.2826036 L71.5969041,13.0121893 L73.3143113,13.0121893 L73.3143113,17.344142 C73.3143113,19.7559763 74.3811398,21.4376331 77.3238034,21.4376331 C78.1412435,21.4376331 78.8815779,21.3589349 79.4502318,21.2843787 L79.859253,18.227574 Z" id="Fill-19"></path>
+                                                        <path d="M22.663028,13.893432 L22.663028,13.9750888 C23.5678142,15.4206509 23.7262422,17.2656213 23.7262422,18.7105917 C23.7262422,23.6094083 19.228816,27.7034911 14.6464532,27.7034911 L0,27.7034911 L5.72689935,22.2431361 L14.7283779,22.2431361 C18.3252346,22.2431361 22.7455551,18.6289349 22.663028,13.893432 Z M21.1088679,17.3443195 C21.6835457,16.3827811 21.9275127,15.3389941 22.008835,14.293432 L17.9186229,14.293432 C17.9186229,15.2567456 17.7505568,16.2993491 17.3457523,17.3443195 L21.1088679,17.3443195 Z M17.1017853,17.9863314 C16.6084298,19.1946154 15.5464204,20.6372189 14.4795918,21.522426 C16.5283122,21.522426 18.8987076,20.6372189 20.6209339,17.9863314 L17.1017853,17.9863314 Z M16.6084298,17.3443195 C17.0186558,16.3827811 17.1825052,15.3389941 17.2626228,14.293432 L11.0447775,14.293432 C11.1254974,15.3389941 11.3712716,16.3827811 11.6965609,17.3443195 L16.6084298,17.3443195 Z M10.9640575,17.3443195 C10.6339491,16.2993491 10.3887773,15.2567456 10.3887773,14.293432 L6.30037239,14.293432 C6.46361944,15.3389941 6.70818882,16.3827811 7.28166186,17.3443195 L10.9640575,17.3443195 Z M14.1555073,20.874497 C13.3362601,20.1608876 12.4368953,18.953787 11.948359,17.9863314 L16.3644628,17.9863314 C15.8723121,18.953787 14.9723449,20.1608876 14.1555073,20.874497 Z M7.61237268,17.9863314 C9.40809025,20.6372189 11.7808952,21.522426 13.9103355,21.522426 C12.7615823,20.6372189 11.6188529,19.1946154 11.2881421,17.9863314 L7.61237268,17.9863314 Z M17.3457523,10.5230178 C17.7505568,11.4851479 17.9186229,12.5271598 17.9186229,13.6484615 L22.008835,13.6484615 C21.9275127,12.5271598 21.6835457,11.4851479 21.1088679,10.5230178 L17.3457523,10.5230178 Z M20.6209339,9.79698225 C18.8987076,7.30704142 16.5283122,6.25970414 14.4795918,6.25970414 C15.5464204,7.06739645 16.6084298,8.58928994 17.1017853,9.79698225 L20.6209339,9.79698225 Z M11.6965609,10.5230178 C11.3712716,11.4851479 11.1254974,12.5271598 11.0447775,13.6484615 L17.2626228,13.6484615 C17.1825052,12.5271598 17.0186558,11.4851479 16.6084298,10.5230178 L11.6965609,10.5230178 Z M7.28166186,10.5230178 C6.70818882,11.4851479 6.46361944,12.5271598 6.30037239,13.6484615 L10.3887773,13.6484615 C10.3887773,12.5271598 10.6339491,11.4851479 10.9640575,10.5230178 L7.28166186,10.5230178 Z M14.1555073,6.98751479 C13.3362601,7.71 12.4368953,8.75497041 11.948359,9.79698225 L16.3644628,9.79698225 C15.8723121,8.75497041 14.9723449,7.71 14.1555073,6.98751479 Z M11.2881421,9.79698225 C11.6188529,8.58928994 12.7615823,7.06739645 13.9103355,6.25970414 C11.7808952,6.25970414 9.40809025,7.30704142 7.61237268,9.79698225 L11.2881421,9.79698225 Z M5.72689935,13.814142 C4.82512504,12.3679882 4.57814611,10.5230178 4.57814611,9.07390533 C4.57814611,4.17745562 9.07918659,-5.91715976e-05 13.7422694,-5.91715976e-05 L28.3092074,-5.91715976e-05 L22.663028,5.62242604 L13.5814319,5.62242604 C9.97734657,5.62242604 5.56425468,9.23248521 5.72689935,13.814142 Z" id="Fill-21"></path>
+                                                        <path d="M161.523079,8.15366864 L162.060409,8.15366864 C162.414612,8.15366864 162.732071,8.10337278 162.732071,7.67319527 C162.732071,7.29863905 162.377264,7.23177515 162.066432,7.23177515 L161.523079,7.23177515 L161.523079,8.15366864 Z M160.920089,6.77852071 L162.129081,6.77852071 C162.912185,6.77852071 163.333254,7.04597633 163.333254,7.71816568 C163.333254,8.26668639 163.016398,8.53710059 162.481477,8.58384615 L163.360963,9.98207101 L162.73689,9.98207101 L161.887523,8.60692308 L161.523079,8.60692308 L161.523079,9.98207101 L160.920089,9.98207101 L160.920089,6.77852071 Z M164.206113,8.39213018 C164.206113,7.07319527 163.232655,6.11343195 162.024265,6.11343195 C160.820695,6.11343195 159.846032,7.07319527 159.846032,8.39213018 C159.846032,9.71994083 160.820695,10.6767456 162.024265,10.6767456 C163.232655,10.6767456 164.206113,9.71994083 164.206113,8.39213018 Z M159.142443,8.39213018 C159.142443,6.8335503 160.431552,5.56254438 162.024265,5.56254438 C163.616978,5.56254438 164.912112,6.8335503 164.912112,8.39213018 C164.912112,9.95130178 163.616978,11.2276331 162.024265,11.2276331 C160.431552,11.2276331 159.142443,9.95130178 159.142443,8.39213018 Z" id="Fill-23"></path>
+                                                    </g>
+                                                </g>
+                                                <g id="button-/-primario-/-default" transform="translate(17.582418, 368.131868)">
+                                                    <path d="M8.79120879,0 L307.692308,0 C312.547558,-8.91895056e-16 316.483516,3.93595824 316.483516,8.79120879 L316.483516,47.2527473 C316.483516,52.1079978 312.547558,56.043956 307.692308,56.043956 L8.79120879,56.043956 C3.93595824,56.043956 -2.95811697e-15,52.1079978 -3.55271368e-15,47.2527473 L-1.77635684e-15,8.79120879 C-2.37095354e-15,3.93595824 3.93595824,8.91895056e-16 8.79120879,0 Z" id="Background" fill="#ED0722"></path>
+                                                    <text id="Button" font-family="FrutigerLTforBNS-Bold, Frutiger LT for BNS" font-size="17.5824176" font-weight="bold" fill="#FFFFFF">
+                                                        <tspan x="63.6879121" y="34.5824176">Contrata tu Seguro acá</tspan>
+                                                    </text>
+                                                </g>
+                                            </g>
+                                            <g id="wireframe-/-ventana-mobile" transform="translate(0.000000, 1.098901)">
+                                                <g id="ventana">
+                                                    <rect id="Rectangle-8" fill="#F6F6F6" x="0" y="0" width="351.648352" height="52.7472527"></rect>
+                                                    <path d="M0,52.7472527 L351.648352,52.7472527" id="Line" stroke="#AAAAAA" stroke-width="1.0989011" stroke-linecap="square"></path>
+                                                    <rect id="Rectangle-9" fill="#EBEBEB" x="30.7692308" y="23.0769231" width="290.10989" height="20.8791209"></rect>
+                                                    <rect id="Rectangle-10" fill="#AAAAAA" x="159.340659" y="8.79120879" width="32.967033" height="5.49450549"></rect>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="Group-2-Copy" transform="translate(417.582418, 0.000000)">
+                                        <text id="Botón-doble" font-family="FrutigerLTforBNS-Roman, Frutiger LT for BNS" font-size="26.3736264" font-weight="normal" fill="#333333">
+                                            <tspan x="0" y="25">Botón doble</tspan>
+                                        </text>
+                                        <g id="mobile" filter="url(#filter-19)" transform="translate(0.000000, 97.802198)">
+                                            <g id="contenido">
+                                                <rect id="fondo" fill="#FFFFFF" x="0" y="0" width="351.648352" height="645.054945"></rect>
+                                                <rect id="Rectangle-2" fill="#F6F6F6" x="0" y="541.758242" width="351.648352" height="103.296703"></rect>
+                                                <g id="button-/-secundario-/-default" transform="translate(17.582418, 450.549451)">
+                                                    <rect id="Background" stroke="#ED0722" stroke-width="2.1978022" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="316.483516" height="56.043956" rx="8.79120879"></rect>
+                                                    <text id="Button" font-family="FrutigerLTforBNS-Bold, Frutiger LT for BNS" font-size="17.5824176" font-weight="bold" fill="#ED0722">
+                                                        <tspan x="101.806593" y="34.5824176">Descubre más</tspan>
+                                                    </text>
+                                                </g>
+                                                <g id="wireframe" transform="translate(17.582418, 568.131868)" fill="#EBEBEB">
+                                                    <rect id="Rectangle-7" x="0" y="0" width="316.483516" height="29.6703297"></rect>
+                                                    <rect id="Rectangle-7-Copy-2" x="21.978022" y="38.4615385" width="272.527473" height="29.6703297"></rect>
+                                                </g>
+                                                <g id="banner" transform="translate(0.000000, 108.791209)">
+                                                    <g id="Group-3">
+                                                        <g id="508187946">
+                                                            <mask id="mask-21" fill="white">
+                                                                <use xlink:href="#path-20"></use>
+                                                            </mask>
+                                                            <use id="Mask" fill="#AAAAAA" xlink:href="#path-20"></use>
+                                                        </g>
+                                                    </g>
+                                                    <g id="Group" transform="translate(17.582418, 164.835165)" fill="#EBEBEB">
+                                                        <rect id="Rectangle-7-Copy" x="0" y="0" width="298.901099" height="29.6703297"></rect>
+                                                        <rect id="Rectangle-7-Copy-2" x="0" y="38.4615385" width="258.241758" height="29.6703297"></rect>
+                                                    </g>
+                                                </g>
+                                                <rect id="header" fill="#EBEBEB" x="0" y="53.8461538" width="351.648352" height="54.9450549"></rect>
+                                                <g id="Logo-Scotiabank-White" transform="translate(93.406593, 67.032967)" fill="#FFFFFF">
+                                                    <g id="Page-1">
+                                                        <path d="M64.7239623,18.7106509 C66.3636614,18.7106509 67.2594119,17.343787 67.2594119,15.7384615 C67.2594119,14.1384615 66.3636614,12.7721893 64.7239623,12.7721893 C63.0878774,12.7721893 62.2686302,14.1384615 62.2686302,15.7384615 C62.2686302,17.343787 63.167995,18.7106509 64.7239623,18.7106509 M64.7239623,21.4372781 C60.9590395,21.4372781 58.2603428,19.2739645 58.2603428,15.7384615 C58.2603428,12.2881657 61.0463857,10.0337278 64.7239623,10.0337278 C68.4057555,10.0337278 71.2676992,12.2881657 71.2676992,15.7384615 C71.2676992,19.2739645 68.4822588,21.4372781 64.7239623,21.4372781" id="Fill-1"></path>
+                                                        <path d="M110.547169,15.7382249 C110.547169,14.2938462 109.649611,13.0121893 108.173761,13.0121893 C106.863568,13.0121893 105.801559,14.0542012 105.801559,15.7382249 C105.801559,17.344142 106.702128,18.5471006 108.173761,18.5471006 C109.562867,18.5471006 110.547169,17.4252071 110.547169,15.7382249 Z M102.036636,21.2033136 L102.036636,5.78023669 L105.883484,5.78023669 L105.883484,11.0831953 L105.964204,11.0831953 C106.208171,10.9186982 107.433427,10.035858 109.319503,10.035858 C112.344694,10.035858 114.554251,12.3678107 114.554251,15.5808284 C114.554251,19.5133728 112.101931,21.5222485 109.319503,21.5222485 C107.194279,21.5222485 106.046128,20.4766864 105.801559,20.2376331 L105.719032,20.2376331 L105.719032,21.2033136 L102.036636,21.2033136 Z" id="Fill-3"></path>
+                                                        <path d="M83.5450221,4.74059172 C82.3167537,4.74059172 81.3360666,5.70153846 81.3360666,6.82402367 C81.3360666,8.02816568 82.3167537,8.99325444 83.5450221,8.99325444 C84.6883538,8.99325444 85.6690409,8.02816568 85.6690409,6.82402367 C85.6690409,5.70153846 84.6883538,4.74059172 83.5450221,4.74059172 Z M81.5800336,21.2855621 L85.4250739,21.2855621 L85.4250739,10.2849704 L81.5800336,10.2849704 L81.5800336,21.2855621 Z" id="Fill-5"></path>
+                                                        <path d="M130.756009,21.2843787 L134.521534,21.2843787 L134.521534,15.5790533 C134.521534,14.2115976 135.422104,13.3299408 136.564833,13.3299408 C137.880448,13.3299408 138.61777,14.2115976 138.61777,15.5790533 L138.61777,21.2843787 L142.376669,21.2843787 L142.376669,14.6169231 C142.376669,12.1269822 140.819497,10.0370414 137.798523,10.0370414 C135.750405,10.0370414 134.765501,11.0849704 134.278772,11.4873373 L134.193233,11.4873373 L134.193233,10.2814201 L130.756009,10.2814201 L130.756009,21.2843787 Z" id="Fill-7"></path>
+                                                        <polygon id="Fill-9" points="144.590926 21.2843787 148.432954 21.2843787 148.432954 16.1388166 148.513072 16.1388166 151.9515 21.2843787 156.289896 21.2843787 152.113543 15.4204734 156.209779 10.2814201 151.868371 10.2814201 148.513072 14.7749112 148.432954 14.7749112 148.432954 5.78142012 144.590926 5.78142012"></polygon>
+                                                        <path d="M57.4423606,10.4384615 C57.1935745,10.3573964 56.1309627,10.035503 54.7454711,10.035503 C51.2227082,10.035503 48.6041291,12.1260355 48.6041291,15.7384615 C48.6041291,19.0289941 50.8907926,21.4372781 54.5762002,21.4372781 C56.0514476,21.4372781 57.1935745,21.0378698 57.4423606,20.9585799 L57.2773064,17.8236686 C56.9502099,17.9076923 56.2116827,18.391716 55.3141251,18.391716 C53.7581578,18.391716 52.6112117,17.2656805 52.6112117,15.7384615 C52.6112117,14.1384615 53.8412873,13.0899408 55.3954474,13.0899408 C56.2116827,13.0899408 57.0315323,13.4881657 57.2773064,13.6485207 L57.4423606,10.4384615 Z" id="Fill-11"></path>
+                                                        <path d="M91.0719762,15.6578698 C91.0719762,17.4259172 92.1363952,18.6300592 93.4411668,18.6300592 C94.6730495,18.6300592 95.8934869,17.5046154 95.8934869,15.8188166 C95.8934869,14.1389349 94.8332847,12.9300592 93.4411668,12.9300592 C92.0532657,12.9300592 91.0719762,14.1389349 91.0719762,15.6578698 Z M99.7475631,10.284497 L99.7475631,21.284497 L95.8934869,21.284497 L95.8934869,20.1608284 L95.8151765,20.1608284 C95.4067577,20.4768047 94.5073929,21.5223669 92.0532657,21.5223669 C89.3527619,21.5223669 86.9799569,19.1939645 86.9799569,15.7383432 C86.9799569,12.5271006 89.1093972,10.0359763 92.2984374,10.0359763 C94.5073929,10.0359763 95.4067577,11.0046154 95.7374685,11.2424852 L95.8151765,11.2424852 L95.8934869,10.284497 L99.7475631,10.284497 Z" id="Fill-13"></path>
+                                                        <path d="M119.873636,15.6578698 C119.873636,17.4259172 120.855527,18.6300592 122.247645,18.6300592 C123.392784,18.6300592 124.62045,17.5046154 124.62045,15.8188166 C124.62045,14.0543195 123.557236,12.9300592 122.247645,12.9300592 C120.855527,12.9300592 119.873636,14.1389349 119.873636,15.6578698 Z M128.466695,10.284497 L128.466695,21.284497 L124.702375,21.284497 L124.62045,20.1608284 L124.539128,20.1608284 C124.131311,20.4768047 123.228332,21.5223669 120.774205,21.5223669 C118.074304,21.5223669 115.701499,19.1939645 115.701499,15.7383432 C115.701499,12.5271006 117.827325,10.0359763 121.019377,10.0359763 C123.228332,10.0359763 124.131311,10.9188166 124.456601,11.2424852 L124.539128,11.2424852 L124.62045,10.284497 L128.466695,10.284497 Z" id="Fill-15"></path>
+                                                        <path d="M36.3284929,20.8746746 C37.3923095,21.2036686 39.0320087,21.4373964 40.8307382,21.4373964 C44.1035103,21.4373964 47.4539904,20.3166864 47.4539904,16.7007101 C47.4539904,11.8048521 40.4988226,12.5273373 40.4988226,10.5226036 C40.4988226,9.55633136 41.5674583,9.31727811 42.6282629,9.31727811 C44.1035103,9.31727811 45.9046493,10.0368047 46.3118634,10.2001183 L46.640767,6.74923077 C45.5751433,6.42378698 44.1035103,6.26224852 42.6282629,6.26224852 C39.3560932,6.26224852 36.1658483,7.54863905 36.1658483,10.6794083 C36.1658483,15.496568 43.0415009,14.5356213 43.0415009,17.0243787 C43.0415009,17.9888757 42.0553923,18.3918343 40.7445968,18.3918343 C39.0320087,18.3918343 37.3923095,17.5048521 36.6525775,17.2652071 L36.3284929,20.8746746 Z" id="Fill-17"></path>
+                                                        <path d="M79.859253,18.227574 C79.696006,18.3080473 79.2074696,18.4713609 78.7966412,18.4713609 C78.0617283,18.4713609 77.1641707,18.0678107 77.1641707,16.7009467 L77.1641707,13.0121893 L79.6134789,13.0121893 L79.6134789,10.2826036 L77.1641707,10.2826036 L77.1641707,6.74946746 L73.3143113,6.74946746 L73.3143113,10.2826036 L71.5969041,10.2826036 L71.5969041,13.0121893 L73.3143113,13.0121893 L73.3143113,17.344142 C73.3143113,19.7559763 74.3811398,21.4376331 77.3238034,21.4376331 C78.1412435,21.4376331 78.8815779,21.3589349 79.4502318,21.2843787 L79.859253,18.227574 Z" id="Fill-19"></path>
+                                                        <path d="M22.663028,13.893432 L22.663028,13.9750888 C23.5678142,15.4206509 23.7262422,17.2656213 23.7262422,18.7105917 C23.7262422,23.6094083 19.228816,27.7034911 14.6464532,27.7034911 L0,27.7034911 L5.72689935,22.2431361 L14.7283779,22.2431361 C18.3252346,22.2431361 22.7455551,18.6289349 22.663028,13.893432 Z M21.1088679,17.3443195 C21.6835457,16.3827811 21.9275127,15.3389941 22.008835,14.293432 L17.9186229,14.293432 C17.9186229,15.2567456 17.7505568,16.2993491 17.3457523,17.3443195 L21.1088679,17.3443195 Z M17.1017853,17.9863314 C16.6084298,19.1946154 15.5464204,20.6372189 14.4795918,21.522426 C16.5283122,21.522426 18.8987076,20.6372189 20.6209339,17.9863314 L17.1017853,17.9863314 Z M16.6084298,17.3443195 C17.0186558,16.3827811 17.1825052,15.3389941 17.2626228,14.293432 L11.0447775,14.293432 C11.1254974,15.3389941 11.3712716,16.3827811 11.6965609,17.3443195 L16.6084298,17.3443195 Z M10.9640575,17.3443195 C10.6339491,16.2993491 10.3887773,15.2567456 10.3887773,14.293432 L6.30037239,14.293432 C6.46361944,15.3389941 6.70818882,16.3827811 7.28166186,17.3443195 L10.9640575,17.3443195 Z M14.1555073,20.874497 C13.3362601,20.1608876 12.4368953,18.953787 11.948359,17.9863314 L16.3644628,17.9863314 C15.8723121,18.953787 14.9723449,20.1608876 14.1555073,20.874497 Z M7.61237268,17.9863314 C9.40809025,20.6372189 11.7808952,21.522426 13.9103355,21.522426 C12.7615823,20.6372189 11.6188529,19.1946154 11.2881421,17.9863314 L7.61237268,17.9863314 Z M17.3457523,10.5230178 C17.7505568,11.4851479 17.9186229,12.5271598 17.9186229,13.6484615 L22.008835,13.6484615 C21.9275127,12.5271598 21.6835457,11.4851479 21.1088679,10.5230178 L17.3457523,10.5230178 Z M20.6209339,9.79698225 C18.8987076,7.30704142 16.5283122,6.25970414 14.4795918,6.25970414 C15.5464204,7.06739645 16.6084298,8.58928994 17.1017853,9.79698225 L20.6209339,9.79698225 Z M11.6965609,10.5230178 C11.3712716,11.4851479 11.1254974,12.5271598 11.0447775,13.6484615 L17.2626228,13.6484615 C17.1825052,12.5271598 17.0186558,11.4851479 16.6084298,10.5230178 L11.6965609,10.5230178 Z M7.28166186,10.5230178 C6.70818882,11.4851479 6.46361944,12.5271598 6.30037239,13.6484615 L10.3887773,13.6484615 C10.3887773,12.5271598 10.6339491,11.4851479 10.9640575,10.5230178 L7.28166186,10.5230178 Z M14.1555073,6.98751479 C13.3362601,7.71 12.4368953,8.75497041 11.948359,9.79698225 L16.3644628,9.79698225 C15.8723121,8.75497041 14.9723449,7.71 14.1555073,6.98751479 Z M11.2881421,9.79698225 C11.6188529,8.58928994 12.7615823,7.06739645 13.9103355,6.25970414 C11.7808952,6.25970414 9.40809025,7.30704142 7.61237268,9.79698225 L11.2881421,9.79698225 Z M5.72689935,13.814142 C4.82512504,12.3679882 4.57814611,10.5230178 4.57814611,9.07390533 C4.57814611,4.17745562 9.07918659,-5.91715976e-05 13.7422694,-5.91715976e-05 L28.3092074,-5.91715976e-05 L22.663028,5.62242604 L13.5814319,5.62242604 C9.97734657,5.62242604 5.56425468,9.23248521 5.72689935,13.814142 Z" id="Fill-21"></path>
+                                                        <path d="M161.523079,8.15366864 L162.060409,8.15366864 C162.414612,8.15366864 162.732071,8.10337278 162.732071,7.67319527 C162.732071,7.29863905 162.377264,7.23177515 162.066432,7.23177515 L161.523079,7.23177515 L161.523079,8.15366864 Z M160.920089,6.77852071 L162.129081,6.77852071 C162.912185,6.77852071 163.333254,7.04597633 163.333254,7.71816568 C163.333254,8.26668639 163.016398,8.53710059 162.481477,8.58384615 L163.360963,9.98207101 L162.73689,9.98207101 L161.887523,8.60692308 L161.523079,8.60692308 L161.523079,9.98207101 L160.920089,9.98207101 L160.920089,6.77852071 Z M164.206113,8.39213018 C164.206113,7.07319527 163.232655,6.11343195 162.024265,6.11343195 C160.820695,6.11343195 159.846032,7.07319527 159.846032,8.39213018 C159.846032,9.71994083 160.820695,10.6767456 162.024265,10.6767456 C163.232655,10.6767456 164.206113,9.71994083 164.206113,8.39213018 Z M159.142443,8.39213018 C159.142443,6.8335503 160.431552,5.56254438 162.024265,5.56254438 C163.616978,5.56254438 164.912112,6.8335503 164.912112,8.39213018 C164.912112,9.95130178 163.616978,11.2276331 162.024265,11.2276331 C160.431552,11.2276331 159.142443,9.95130178 159.142443,8.39213018 Z" id="Fill-23"></path>
+                                                    </g>
+                                                </g>
+                                                <g id="button-/-primario-/-default" transform="translate(17.582418, 368.131868)">
+                                                    <path d="M8.79120879,0 L307.692308,0 C312.547558,-8.91895056e-16 316.483516,3.93595824 316.483516,8.79120879 L316.483516,47.2527473 C316.483516,52.1079978 312.547558,56.043956 307.692308,56.043956 L8.79120879,56.043956 C3.93595824,56.043956 -2.95811697e-15,52.1079978 -3.55271368e-15,47.2527473 L-1.77635684e-15,8.79120879 C-2.37095354e-15,3.93595824 3.93595824,8.91895056e-16 8.79120879,0 Z" id="Background" fill="#ED0722"></path>
+                                                    <text id="Button" font-family="FrutigerLTforBNS-Bold, Frutiger LT for BNS" font-size="17.5824176" font-weight="bold" fill="#FFFFFF">
+                                                        <tspan x="63.6879121" y="34.5824176">Contrata tu Seguro acá</tspan>
+                                                    </text>
+                                                </g>
+                                            </g>
+                                            <g id="wireframe-/-ventana-mobile" transform="translate(0.000000, 1.098901)">
+                                                <g id="ventana">
+                                                    <rect id="Rectangle-8" fill="#F6F6F6" x="0" y="0" width="351.648352" height="52.7472527"></rect>
+                                                    <path d="M0,52.7472527 L351.648352,52.7472527" id="Line" stroke="#AAAAAA" stroke-width="1.0989011" stroke-linecap="square"></path>
+                                                    <rect id="Rectangle-9" fill="#EBEBEB" x="30.7692308" y="23.0769231" width="290.10989" height="20.8791209"></rect>
+                                                    <rect id="Rectangle-10" fill="#AAAAAA" x="159.340659" y="8.79120879" width="32.967033" height="5.49450549"></rect>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g id="Consejo-UI-/-UX" filter="url(#filter-22)" transform="translate(112.087912, 2804.395604)">
+                                    <path d="M0,89.010989 L769.230769,89.010989 L769.230769,467.032967 C769.230769,476.136562 761.850848,483.516484 752.747253,483.516484 L16.4835165,483.516484 C7.37992171,483.516484 1.17730099e-14,476.136562 1.0658141e-14,467.032967 L0,89.010989 Z" id="Rectangle-Copy" fill="#FFFFFF"></path>
+                                    <path d="M16.4835165,0 L752.747253,0 C761.850848,-1.67230323e-15 769.230769,7.37992171 769.230769,16.4835165 L769.230769,89.010989 L0,89.010989 L-3.55271368e-15,16.4835165 C-4.6675825e-15,7.37992171 7.37992171,-5.43312413e-15 16.4835165,-7.10542736e-15 Z" id="Rectangle" fill="#8230DF"></path>
+                                    <text font-family="FrutigerLTforBNS-Bold, Frutiger LT for BNS" font-size="37.3626374" font-weight="bold" fill="#FFFFFF">
+                                        <tspan x="124.175824" y="57.978022">Consejo UI / UX</tspan>
+                                    </text>
+                                    <g id="icon-/-libreria-/-diseño" transform="translate(35.164835, 17.582418)">
+                                        <g id="Page-1" transform="translate(0.899101, 0.899101)">
+                                            <g id="Group-3" transform="translate(0.000000, 0.000513)">
+                                                <mask id="mask-24" fill="white">
+                                                    <use xlink:href="#path-23"></use>
+                                                </mask>
+                                                <g id="Clip-2"></g>
+                                                <path d="M1.86672213,15.3377947 L25.6461427,48.9577714 L49.4264182,15.3377947 L41.6751956,1.7101076 L9.61538003,1.7101076 L1.86672213,15.3377947 Z M25.6461427,51.2933113 C25.3691607,51.2933113 25.1084214,51.1582398 24.9485583,50.9316958 L0.156956486,15.8815001 C-0.034537266,15.6105023 -0.0524898053,15.2531613 0.111647697,14.9650658 L8.37494505,0.432057778 C8.5271142,0.165334338 8.81093529,0.000341953129 9.11783823,0.000341953129 L42.1727374,0.000341953129 C42.4804952,0.000341953129 42.7643163,0.165334338 42.9164855,0.432057778 L51.1814926,14.9650658 C51.3456301,15.2531613 51.3268227,15.6105023 51.1361838,15.8815001 L26.344582,50.9316958 C26.183864,51.1582398 25.9239796,51.2933113 25.6461427,51.2933113 Z" id="Fill-1" fill="#FFFFFF" mask="url(#mask-24)"></path>
+                                            </g>
+                                            <path d="M50.4380865,16.2432865 L0.854882822,16.2432865 C0.382132621,16.2432865 0,15.8611539 0,15.3884037 C0,14.9156535 0.382132621,14.5335209 0.854882822,14.5335209 L50.4380865,14.5335209 C50.9108367,14.5335209 51.2929693,14.9156535 51.2929693,15.3884037 C51.2929693,15.8611539 50.9108367,16.2432865 50.4380865,16.2432865" id="Fill-4" fill="#FFFFFF"></path>
+                                            <path d="M25.6464847,51.2934823 C25.2780302,51.2934823 24.9523198,51.0583895 24.8360557,50.7087424 L8.30775127,1.12553872 C8.15814677,0.677580125 8.40007861,0.193716447 8.84803721,0.0449668364 C9.30027022,-0.103782775 9.7790046,0.137294181 9.9286091,0.58525278 L25.6464847,47.7354599 L41.3626505,0.58525278 C41.5114001,0.137294181 41.9909893,-0.103782775 42.4432224,0.0449668364 C42.891181,0.193716447 43.1331128,0.677580125 42.9835083,1.12553872 L26.4569136,50.7087424 C26.3406495,51.0583895 26.0149392,51.2934823 25.6464847,51.2934823" id="Fill-6" fill="#FFFFFF"></path>
+                                            <path d="M13.9628011,16.2432865 C13.7747269,16.2432865 13.5866527,16.181735 13.4276445,16.0543574 C13.0600449,15.7594229 13.0019128,15.2208467 13.2977023,14.8523922 L24.9805309,0.319384222 C25.2754655,-0.0473605083 25.8123319,-0.106347423 26.1824962,0.189442033 C26.5500958,0.484376607 26.6082278,1.02295278 26.3124384,1.39140728 L14.6296097,15.9244153 C14.4611978,16.1338615 14.2132818,16.2432865 13.9628011,16.2432865" id="Fill-8" fill="#FFFFFF"></path>
+                                            <path d="M37.3301682,16.2432865 C37.0796875,16.2432865 36.8317715,16.1338615 36.6633596,15.9244153 L24.9805309,1.39140728 C24.6847415,1.02295278 24.7428735,0.484376607 25.1104731,0.189442033 C25.4797825,-0.108057189 26.0175038,-0.0482153912 26.3124384,0.319384222 L37.995267,14.8523922 C38.2910565,15.2208467 38.2329245,15.7594229 37.8653248,16.0543574 C37.7063166,16.181735 37.5182424,16.2432865 37.3301682,16.2432865" id="Fill-10" fill="#FFFFFF"></path>
+                                        </g>
+                                    </g>
+                                    <g id="txt" transform="translate(35.164835, 183.516484)">
+                                        <circle id="Oval" fill="#757575" cx="4.3956044" cy="12.0879121" r="4.3956044"></circle>
+                                        <text id="El-botón-primario-de" font-family="FrutigerLTforBNS-Bold, Frutiger LT for BNS" font-size="17.5824176" font-weight="bold" fill="#333333">
+                                            <tspan x="26.3736264" y="17">El botón primario debe ser utilizado sólo para el llamado principal del landing, y </tspan>
+                                            <tspan x="26.3736264" y="38">puede repetirse siempre que tenga el mismo llamado de acción y no se vean dos </tspan>
+                                            <tspan x="26.3736264" y="59">en la misma pantalla.</tspan>
+                                        </text>
+                                    </g>
+                                    <g id="txt-copy-2" transform="translate(35.164835, 124.175824)">
+                                        <g id="Group-4">
+                                            <circle id="Oval" fill="#757575" cx="4.3956044" cy="12.0879121" r="4.3956044"></circle>
+                                            <text id="En-mobile,-los-boton" font-family="FrutigerLTforBNS-Bold, Frutiger LT for BNS" font-size="17.5824176" font-weight="bold" fill="#333333">
+                                                <tspan x="26.3736264" y="17">En mobile, los botones primarios y secundarios deben acomodar su ancho al de </tspan>
+                                                <tspan x="26.3736264" y="38">la pantalla, siempre respetando los margenes correspondientes.</tspan>
+                                            </text>
+                                        </g>
+                                    </g>
+                                    <g id="txt" transform="translate(35.164835, 263.736264)">
+                                        <circle id="Oval" fill="#757575" cx="4.3956044" cy="12.0879121" r="4.3956044"></circle>
+                                        <text id="En-el-caso-que-ya-te" font-family="FrutigerLTforBNS-Bold, Frutiger LT for BNS" font-size="17.5824176" font-weight="bold" fill="#333333">
+                                            <tspan x="26.3736264" y="17">En el caso que ya tengamos definida nuestra acción principal con un botón </tspan>
+                                            <tspan x="26.3736264" y="38">primario, podemos comezar a utilizar el botón secundario. Este botón debe tener </tspan>
+                                            <tspan x="26.3736264" y="59">un llamado a la acción mucho menos relevante que el primario.</tspan>
+                                        </text>
+                                    </g>
+                                    <g id="txt-copy" transform="translate(35.164835, 343.956044)">
+                                        <circle id="Oval" fill="#757575" cx="4.3956044" cy="12.0879121" r="4.3956044"></circle>
+                                        <text id="Finalmente-el-botón" font-family="FrutigerLTforBNS-Bold, Frutiger LT for BNS" font-size="17.5824176" font-weight="bold" fill="#333333">
+                                            <tspan x="26.3736264" y="17">Finalmente el botón plano lo podemos utilizar con contenido mucho menos </tspan>
+                                            <tspan x="26.3736264" y="38">relevante o cuando el llamado a la acción esta presente en el contenido y ya no </tspan>
+                                            <tspan x="26.3736264" y="59">se hace necesario utilizarlo en el botón mismo. Por ejemplo en una caja que </tspan>
+                                            <tspan x="26.3736264" y="80">contiene foto y un título, puede contener un botón plano como llamado a la </tspan>
+                                            <tspan x="26.3736264" y="101">acción.</tspan>
+                                        </text>
+                                    </g>
+                                </g>
+                                <text id="Botones-desktop" font-family="FrutigerLTforBNS-Bold, Frutiger LT for BNS" font-size="54.9450549" font-weight="bold" fill="#333333">
+                                    <tspan x="0" y="53">Botones desktop</tspan>
+                                </text>
+                                <g id="Botón-primario" transform="translate(0.000000, 132.967033)">
+                                    <text font-family="FrutigerLTforBNS-Roman, Frutiger LT for BNS" font-size="26.3736264" font-weight="normal" fill="#333333">
+                                        <tspan x="0" y="25">Botón primario</tspan>
+                                    </text>
+                                    <g id="Consejo" filter="url(#filter-25)" transform="translate(449.450549, 0.000000)">
+                                        <path d="M0,62.6373626 L439.56044,62.6373626 L439.56044,500 C439.56044,509.103595 432.180518,516.483516 423.076923,516.483516 L16.4835165,516.483516 C7.37992171,516.483516 1.56937661e-14,509.103595 -1.77635684e-14,500 L0,62.6373626 Z" id="Rectangle-Copy" fill="#FFFFFF"></path>
+                                        <text id=".btn-primario-{-back" font-family="FrutigerLTforBNS-Roman, Frutiger LT for BNS" font-size="16.4835165" font-weight="normal" fill="#333333">
+                                            <tspan x="35.1648352" y="105.010989">.btn-primario {</tspan>
+                                            <tspan x="35.1648352" y="125.010989">	background: #ED0722;</tspan>
+                                            <tspan x="35.1648352" y="145.010989">	border-radius: 8px;</tspan>
+                                            <tspan x="35.1648352" y="165.010989">	color: #FFFFFF;</tspan>
+                                            <tspan x="35.1648352" y="185.010989">	cursor: pointer;</tspan>
+                                            <tspan x="35.1648352" y="205.010989">	display: inline-block;</tspan>
+                                            <tspan x="35.1648352" y="225.010989">	margin: 24px;</tspan>
+                                            <tspan x="35.1648352" y="245.010989">	padding: 16px 24px;</tspan>
+                                            <tspan x="35.1648352" y="265.010989">	text-align: center;</tspan>
+                                            <tspan x="35.1648352" y="285.010989">	text-decoration: none;</tspan>
+                                            <tspan x="35.1648352" y="305.010989">	-webkit-transition: all 0.5s ease-in-out;</tspan>
+                                            <tspan x="35.1648352" y="325.010989">	-moz-transition: all 0.5s ease-in-out;</tspan>
+                                            <tspan x="35.1648352" y="345.010989">	-ms-transition: all 0.5s ease-in-out;</tspan>
+                                            <tspan x="35.1648352" y="365.010989">	-o-transition: all 0.5s ease-in-out;</tspan>
+                                            <tspan x="35.1648352" y="385.010989">	transition: all 0.5s ease-in-out;</tspan>
+                                            <tspan x="35.1648352" y="405.010989">	}</tspan>
+                                            <tspan x="35.1648352" y="425.010989"></tspan>
+                                            <tspan x="35.1648352" y="445.010989">.btn-primario:hover {</tspan>
+                                            <tspan x="35.1648352" y="465.010989">	background-color: #BD051B;</tspan>
+                                            <tspan x="35.1648352" y="485.010989">	}</tspan>
+                                        </text>
+                                        <path d="M16.4835165,0 L423.076923,0 C432.180518,-1.67230323e-15 439.56044,7.37992171 439.56044,16.4835165 L439.56044,62.6373626 L0,62.6373626 L0,16.4835165 C-1.11486882e-15,7.37992171 7.37992171,-1.88041045e-15 16.4835165,-3.55271368e-15 Z" id="Rectangle" fill="#EBEBEB"></path>
+                                        <text id="Código" font-family="FrutigerLTforBNS-Roman, Frutiger LT for BNS" font-size="26.3736264" font-weight="normal" fill="#333333">
+                                            <tspan x="87.9120879" y="40.3846154">Código</tspan>
+                                        </text>
+                                        <g id="icon-/-libreria-/-codigo" transform="translate(26.373626, 14.285714)" fill="#333333">
+                                            <g id="Page-1" transform="translate(0.582751, 2.331002)">
+                                                <path d="M8.44988345,23.0966861 C8.30567211,23.0966861 8.16146076,23.0414802 8.05161228,22.9316317 L0.16505439,15.0473271 C0.0591491841,14.9414219 0,14.7989005 0,14.6490559 C0,14.4997747 0.0591491841,14.3561267 0.16505439,14.2507848 L8.05161228,6.36197358 C8.27187257,6.14171329 8.62789433,6.14171329 8.84815462,6.36197358 C9.06841492,6.58223388 9.06841492,6.93825563 8.84815462,7.15851593 L1.35986791,14.6490559 L8.84815462,22.1350894 C9.06841492,22.3553497 9.06841492,22.7113714 8.84815462,22.9316317 C8.73830614,23.0414802 8.59409479,23.0966861 8.44988345,23.0966861" id="Fill-1"></path>
+                                                <path d="M25.3496503,23.0988831 C25.205439,23.0988831 25.0612277,23.0436772 24.9513792,22.9338287 C24.7311189,22.7135684 24.7311189,22.3575466 24.9513792,22.1372863 L32.4396659,14.6467463 L24.9513792,7.1607129 C24.7311189,6.9404526 24.7311189,6.58443085 24.9513792,6.36417055 C25.1716395,6.14391026 25.5276612,6.14391026 25.7479215,6.36417055 L33.6344794,14.2484751 C33.7403846,14.3543803 33.7995338,14.4969017 33.7995338,14.6467463 C33.7995338,14.7960276 33.7403846,14.9396756 33.6344794,15.0450175 L25.7479215,22.9338287 C25.638073,23.0436772 25.4938617,23.0988831 25.3496503,23.0988831" id="Fill-3"></path>
+                                                <path d="M12.3931624,29.2932673 C12.3362665,29.2932673 12.2788073,29.2842541 12.2213481,29.2662277 C11.9250389,29.171589 11.7616744,28.855 11.8568765,28.5581274 L20.8700855,0.391849262 C20.9647242,0.0955400155 21.2790598,-0.0683877234 21.5781857,0.0273776224 C21.8744949,0.122016317 22.0378594,0.438605284 21.9426573,0.735477855 L12.9294483,28.901756 C12.8528361,29.1406061 12.6320124,29.2932673 12.3931624,29.2932673" id="Fill-5"></path>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="primario-default" transform="translate(0.000000, 97.802198)">
+                                        <g id="button-/-primario-/-default" transform="translate(0.000000, 47.252747)">
+                                            <path d="M8.79120879,0 L177.022977,1.77635684e-15 C181.878228,-1.63648533e-14 185.814186,3.93595824 185.814186,8.79120879 L185.814186,47.2527473 C185.814186,52.1079978 181.878228,56.043956 177.022977,56.043956 L8.79120879,56.043956 C3.93595824,56.043956 -2.95811697e-15,52.1079978 -3.55271368e-15,47.2527473 L1.77635684e-15,8.79120879 C1.18176014e-15,3.93595824 3.93595824,2.6682519e-15 8.79120879,1.77635684e-15 Z" id="Background" fill="#ED0722" fill-rule="evenodd"></path>
+                                            <text id="Button" font-family="FrutigerLTforBNS-Bold, Frutiger LT for BNS" font-size="17.5824176" font-weight="bold" fill="#FFFFFF">
+                                                <tspan x="26.3736264" y="34.5824176">Simula y solicita</tspan>
+                                            </text>
+                                        </g>
+                                        <text id="Default" font-family="FrutigerLTforBNS-Bold, Frutiger LT for BNS" font-size="17.5824176" font-weight="bold" fill="#333333">
+                                            <tspan x="0" y="17">Default</tspan>
+                                        </text>
+                                    </g>
+                                    <g id="primario-hover" transform="translate(0.000000, 267.032967)">
+                                        <g id="button-/-primario-/-hover" transform="translate(0.000000, 47.252747)">
+                                            <path d="M8.79120879,0 L177.022977,1.77635684e-15 C181.878228,-1.63648533e-14 185.814186,3.93595824 185.814186,8.79120879 L185.814186,47.2527473 C185.814186,52.1079978 181.878228,56.043956 177.022977,56.043956 L8.79120879,56.043956 C3.93595824,56.043956 -2.95811697e-15,52.1079978 -3.55271368e-15,47.2527473 L1.77635684e-15,8.79120879 C1.18176014e-15,3.93595824 3.93595824,2.6682519e-15 8.79120879,1.77635684e-15 Z" id="Background" fill="#BD051B" fill-rule="evenodd"></path>
+                                            <text id="Button" font-family="FrutigerLTforBNS-Bold, Frutiger LT for BNS" font-size="17.5824176" font-weight="bold" fill="#FFFFFF">
+                                                <tspan x="26.3736264" y="34.5824176">Simula y solicita</tspan>
+                                            </text>
+                                        </g>
+                                        <text id="Hover" font-family="FrutigerLTforBNS-Bold, Frutiger LT for BNS" font-size="17.5824176" font-weight="bold" fill="#333333">
+                                            <tspan x="0" y="17">Hover</tspan>
+                                        </text>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <text id="Style---Elementos-bá" font-family="FrutigerLTforBNS-Bold, Frutiger LT for BNS" font-size="35.1648352" font-weight="bold" fill="#333333">
+                    <tspan x="293.406593" y="42.7912088">Style - Elementos básicos</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

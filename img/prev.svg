@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="36px" viewBox="0 0 22 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Icono / Web / Flecha simple Izquierda</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Alfredo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Santander-Copy-2" transform="translate(-73.000000, -5417.000000)">
+            <g id="Group-7" transform="translate(0.000000, 5327.000000)">
+                <g id="Icono-/-Web-/-Flecha-simple-Izquierda" transform="translate(70.000000, 80.000000)">
+                    <g id="Icono-/-Flecha-Copy" transform="translate(14.000000, 28.000000) rotate(-180.000000) translate(-14.000000, -28.000000) ">
+                        <rect id="Rectangle" x="0" y="0" width="28" height="56"></rect>
+                        <path d="M1.65752721,19.3237101 C0.750526948,18.4533492 -0.726842196,18.4468544 -1.64226912,19.3092034 C-2.55769605,20.1715525 -2.56452721,21.5761914 -1.65752695,22.4465523 L13.8559394,37.3333333 L29.6423394,22.4609929 C30.5577279,21.5986069 30.5644964,20.1939677 29.6574574,19.3236433 C28.7504183,18.453319 27.2730489,18.4468836 26.3576604,19.3092696 L13.8863158,31.058502 L1.65752721,19.3237101 Z" id="Path-5" stroke="#241433" stroke-width="2" fill="#241433" fill-rule="nonzero" transform="translate(14.000000, 28.000000) rotate(-90.000000) translate(-14.000000, -28.000000) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
